@@ -1,0 +1,320 @@
+[
+  {
+    "name": "CR",
+    "category": "multistage",
+    "description": "Вертикальные многоступенчатые насосы",
+    "url": "https://product-selection.grundfos.com/products/cr-cre-cri-crie-crn-crne-crt-crte/cr"
+  },
+  {
+    "name": "CRE",
+    "category": "multistage",
+    "description": "Вертикальные многоступенчатые насосы",
+    "url": "https://product-selection.grundfos.com/products/cr-cre-cri-crie-crn-crne-crt-crte/cre"
+  },
+  {
+    "name": "CRI",
+    "category": "multistage",
+    "description": "Вертикальные многоступенчатые насосы",
+    "url": "https://product-selection.grundfos.com/products/cr-cre-cri-crie-crn-crne-crt-crte/cri"
+  },
+  {
+    "name": "CRIE",
+    "category": "multistage",
+    "description": "Вертикальные многоступенчатые насосы",
+    "url": "https://product-selection.grundfos.com/products/cr-cre-cri-crie-crn-crne-crt-crte/crie"
+  },
+  {
+    "name": "CRN",
+    "category": "multistage",
+    "description": "Вертикальные многоступенчатые насосы",
+    "url": "https://product-selection.grundfos.com/products/cr-cre-cri-crie-crn-crne-crt-crte/crn"
+  },
+  {
+    "name": "CRNE",
+    "category": "multistage",
+    "description": "Вертикальные многоступенчатые насосы",
+    "url": "https://product-selection.grundfos.com/products/cr-cre-cri-crie-crn-crne-crt-crte/crne"
+  },
+  {
+    "name": "CRT",
+    "category": "multistage",
+    "description": "Вертикальные многоступенчатые насосы",
+    "url": "https://product-selection.grundfos.com/products/cr-cre-cri-crie-crn-crne-crt-crte/crt"
+  },
+  {
+    "name": "CRNE-HS",
+    "category": "multistage",
+    "description": "Насосы высокого давления",
+    "url": "https://product-selection.grundfos.com/products/cr-cre-cri-crie-crn-crne-crt-crte/crne-hs-crn-sf"
+  },
+  {
+    "name": "CRN-SF",
+    "category": "multistage",
+    "description": "Насосы высокого давления",
+    "url": "https://product-selection.grundfos.com/products/cr-cre-cri-crie-crn-crne-crt-crte/crne-hs-crn-sf"
+  },
+  {
+    "name": "NB",
+    "category": "endsuction",
+    "description": "Консольные моноблочные насосы",
+    "url": "https://product-selection.grundfos.com/products/nb-nbe-nbe-series-2000"
+  },
+  {
+    "name": "NBE",
+    "category": "endsuction",
+    "description": "Консольные моноблочные насосы",
+    "url": "https://product-selection.grundfos.com/products/nb-nbe-nbe-series-2000"
+  },
+  {
+    "name": "NBE Series 2000",
+    "category": "endsuction",
+    "description": "Консольные моноблочные насосы",
+    "url": "https://product-selection.grundfos.com/products/nb-nbe-nbe-series-2000"
+  },
+  {
+    "name": "NBG",
+    "category": "endsuction",
+    "description": "Консольные моноблочные насосы",
+    "url": "https://product-selection.grundfos.com/products/nbg-nbge"
+  },
+  {
+    "name": "NBGE",
+    "category": "endsuction",
+    "description": "Консольные моноблочные насосы",
+    "url": "https://product-selection.grundfos.com/products/nbg-nbge"
+  },
+  {
+    "name": "NK",
+    "category": "endsuction",
+    "description": "Консольные насосы на раме",
+    "url": "https://product-selection.grundfos.com/products/nk-nke-nke-series-2000-nk-bare-shaft"
+  },
+  {
+    "name": "NKE",
+    "category": "endsuction",
+    "description": "Консольные насосы на раме",
+    "url": "https://product-selection.grundfos.com/products/nk-nke-nke-series-2000-nk-bare-shaft"
+  },
+  {
+    "name": "NKE Series 2000",
+    "category": "endsuction",
+    "description": "Консольные насосы на раме",
+    "url": "https://product-selection.grundfos.com/products/nk-nke-nke-series-2000-nk-bare-shaft"
+  },
+  {
+    "name": "NKG",
+    "category": "endsuction",
+    "description": "Консольные насосы на раме",
+    "url": "https://product-selection.grundfos.com/products/nkg-nkge-nkg-bare-shaft"
+  },
+  {
+    "name": "NKGE",
+    "category": "endsuction",
+    "description": "Консольные насосы на раме",
+    "url": "https://product-selection.grundfos.com/products/nkg-nkge-nkg-bare-shaft"
+  },
+  {
+    "name": "CM",
+    "category": "multistage",
+    "description": "Горизонтальные многоступенчатые насосы",
+    "url": "https://product-selection.grundfos.com/products/cm-cme/cm"
+  },
+  {
+    "name": "CME",
+    "category": "multistage",
+    "description": "Горизонтальные многоступенчатые насосы",
+    "url": "https://product-selection.grundfos.com/products/cm-cme/cme"
+  },
+  {
+    "name": "TP",
+    "category": "inline",
+    "description": "Линейные насосы для инженерных систем предприятий и коммерческих зданий",
+    "url": "https://product-selection.grundfos.com/products/tp-tpe"
+  },
+  {
+    "name": "TPE",
+    "category": "inline",
+    "description": "Линейные насосы для инженерных систем предприятий и коммерческих зданий",
+    "url": "https://product-selection.grundfos.com/products/tp-tpe"
+  },
+  {
+    "name": "TPE Series 1000 / TPE2",
+    "category": "inline",
+    "description": "Линейные насосы для инженерных систем предприятий и коммерческих зданий",
+    "url": "https://product-selection.grundfos.com/products/tp-tpe/tpe-series-1000-tpe2"
+  },
+  {
+    "name": "TPED Series 1000 / TPE2 D",
+    "category": "inline",
+    "description": "Линейные насосы для инженерных систем предприятий и коммерческих зданий",
+    "url": "https://product-selection.grundfos.com/products/tp-tpe/tped-series-1000-tpe2-d"
+  },
+  {
+    "name": "TPED Series 2000 / TPE3 D",
+    "category": "inline",
+    "description": "Линейные насосы для инженерных систем предприятий и коммерческих зданий",
+    "url": "https://product-selection.grundfos.com/products/tp-tpe/tped-series-2000-tpe3-d"
+  },
+  {
+    "name": "MAGNA1",
+    "category": "inline",
+    "description": "Циркуляция в инженерных системах коммерческих объектов",
+    "url": "https://product-selection.grundfos.com/products/magna/magna1"
+  },
+  {
+    "name": "MAGNA3",
+    "category": "inline",
+    "description": "Циркуляция в инженерных системах коммерческих объектов",
+    "url": "https://product-selection.grundfos.com/products/magna/magna3"
+  },
+  {
+    "name": "Hydro MPC",
+    "category": "boosters",
+    "description": "Многонасосные установки повышения давления",
+    "url": "https://product-selection.grundfos.com/products/hydro-mpc"
+  },
+  {
+    "name": "Hydro Multi-E",
+    "category": "boosters",
+    "description": "Многонасосные установки повышения давления",
+    "url": "https://product-selection.grundfos.com/products/hydro-multi-e"
+  },
+  {
+    "name": "Hydro Multi-B",
+    "category": "boosters",
+    "description": "Многонасосные установки повышения давления",
+    "url": "https://product-selection.grundfos.com/products/hydro-multi-b"
+  },
+  {
+    "name": "Hydro Multi-S",
+    "category": "boosters",
+    "description": "Многонасосные установки повышения давления",
+    "url": "https://product-selection.grundfos.com/products/hydro-multi-s"
+  },
+  {
+    "name": "SP",
+    "category": "borehole",
+    "description": "Погружные насосы для водозабора и водоснабжения объектов",
+    "url": "https://product-selection.grundfos.com/products/sp-sp-g"
+  },
+  {
+    "name": "SPE",
+    "category": "borehole",
+    "description": "Погружные насосы для водозабора и водоснабжения объектов",
+    "url": "https://product-selection.grundfos.com/products/sp-sp-g"
+  },
+  {
+    "name": "SP-NE",
+    "category": "borehole",
+    "description": "Погружные насосы для водозабора и водоснабжения объектов",
+    "url": "https://product-selection.grundfos.com/products/sp-sp-g"
+  },
+  {
+    "name": "SE1",
+    "category": "wastewater",
+    "description": "Насосы для сточных и технологических вод",
+    "url": "https://product-selection.grundfos.com/products/sesl-range-48/se1"
+  },
+  {
+    "name": "SEV",
+    "category": "wastewater",
+    "description": "Насосы для сточных и технологических вод",
+    "url": "https://product-selection.grundfos.com/products/sesl-range-48/sev"
+  },
+  {
+    "name": "SL1",
+    "category": "wastewater",
+    "description": "Насосы для сточных и технологических вод",
+    "url": "https://product-selection.grundfos.com/products/sesl-range-48/sl1"
+  },
+  {
+    "name": "SLV",
+    "category": "wastewater",
+    "description": "Насосы для сточных и технологических вод",
+    "url": "https://product-selection.grundfos.com/products/sesl-range-48/slv"
+  },
+  {
+    "name": "S",
+    "category": "wastewater",
+    "description": "Насосы для сточных и технологических вод",
+    "url": "https://product-selection.grundfos.com/products/s"
+  },
+  {
+    "name": "MULTILIFT",
+    "category": "wastewater",
+    "description": "Канализационные установки для коммерческих объектов",
+    "url": "https://product-selection.grundfos.com/products/multilift"
+  },
+  {
+    "name": "DDA",
+    "category": "dosing",
+    "description": "Дозирование реагентов и водоподготовка",
+    "url": "https://product-selection.grundfos.com/products/dosing-pumps-digital/dda"
+  },
+  {
+    "name": "DDC",
+    "category": "dosing",
+    "description": "Дозирование реагентов и водоподготовка",
+    "url": "https://product-selection.grundfos.com/products/dosing-pumps-digital/ddc"
+  },
+  {
+    "name": "DDE",
+    "category": "dosing",
+    "description": "Дозирование реагентов и водоподготовка",
+    "url": "https://product-selection.grundfos.com/products/dosing-pumps-digital/dde"
+  },
+  {
+    "name": "DDI",
+    "category": "dosing",
+    "description": "Дозирование реагентов и водоподготовка",
+    "url": "https://product-selection.grundfos.com/products/dosing-pumps-digital/ddi"
+  },
+  {
+    "name": "DMH",
+    "category": "dosing",
+    "description": "Дозирование реагентов и водоподготовка",
+    "url": "https://product-selection.grundfos.com/products/dosing-pumps-mechanical/dmh"
+  },
+  {
+    "name": "DMX",
+    "category": "dosing",
+    "description": "Дозирование реагентов и водоподготовка",
+    "url": "https://product-selection.grundfos.com/products/dosing-pumps-mechanical/dmx"
+  },
+  {
+    "name": "MIXIT",
+    "category": "controls",
+    "description": "Управление и защита насосных систем",
+    "url": "https://product-selection.grundfos.com/products/mixit"
+  },
+  {
+    "name": "MP 204",
+    "category": "controls",
+    "description": "Управление и защита насосных систем",
+    "url": "https://product-selection.grundfos.com/products/mp/mp-204"
+  },
+  {
+    "name": "LC 231",
+    "category": "controls",
+    "description": "Управление и защита насосных систем",
+    "url": "https://product-selection.grundfos.com/products/lc/lc-231"
+  },
+  {
+    "name": "LC 241",
+    "category": "controls",
+    "description": "Управление и защита насосных систем",
+    "url": "https://product-selection.grundfos.com/products/lc/lc-241"
+  },
+  {
+    "name": "LC 242",
+    "category": "controls",
+    "description": "Управление и защита насосных систем",
+    "url": "https://product-selection.grundfos.com/products/lc/lc-242"
+  },
+  {
+    "name": "Hydro EN",
+    "category": "fire",
+    "description": "Насосные установки пожаротушения",
+    "url": "https://product-selection.grundfos.com/products/hydro-en"
+  }
+]

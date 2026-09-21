@@ -1,0 +1,1092 @@
+{
+  "checkedAt": "2026-09-17",
+  "scopeRu": "Промышленные насосы, инженерные системы коммерческих объектов, промышленная автоматика и запчасти. Бытовой сектор исключён.",
+  "important": "Family/series records are not SKUs. Product numbers below are verified manufacturer identifiers, not proof of current orderability in Uzbekistan. Use request-for-quotation CTA until supplier stock/pricing/production status is confirmed.",
+  "familyVerificationLimits": "Official titles and URLs verified. Application tags are editorial navigation candidates, not engineering approval of every variant. No unverified family-wide numerical specifications provided.",
+  "familyCount": 53,
+  "families": [
+    {
+      "name": "CR",
+      "category": "vertical_multistage",
+      "recordType": "family",
+      "sourceUrl": "https://product-selection.grundfos.com/products/cr-cre-cri-crie-crn-crne-crt-crte/cr",
+      "verification": "official_page_title",
+      "descriptionRu": "Вертикальные многоступенчатые насосы",
+      "applicationCandidates": [
+        "process",
+        "boiler",
+        "pressure"
+      ],
+      "article": null,
+      "priceUzs": null,
+      "stock": null,
+      "orderability": "supplier_confirmation_required"
+    },
+    {
+      "name": "CRE",
+      "category": "vertical_multistage",
+      "recordType": "family",
+      "sourceUrl": "https://product-selection.grundfos.com/products/cr-cre-cri-crie-crn-crne-crt-crte/cre",
+      "verification": "official_page_title",
+      "descriptionRu": "Вертикальные многоступенчатые насосы",
+      "applicationCandidates": [
+        "process",
+        "boiler",
+        "pressure"
+      ],
+      "article": null,
+      "priceUzs": null,
+      "stock": null,
+      "orderability": "supplier_confirmation_required"
+    },
+    {
+      "name": "CRI",
+      "category": "vertical_multistage",
+      "recordType": "family",
+      "sourceUrl": "https://product-selection.grundfos.com/products/cr-cre-cri-crie-crn-crne-crt-crte/cri",
+      "verification": "official_page_title",
+      "descriptionRu": "Вертикальные многоступенчатые насосы",
+      "applicationCandidates": [
+        "process",
+        "boiler",
+        "pressure"
+      ],
+      "article": null,
+      "priceUzs": null,
+      "stock": null,
+      "orderability": "supplier_confirmation_required"
+    },
+    {
+      "name": "CRIE",
+      "category": "vertical_multistage",
+      "recordType": "family",
+      "sourceUrl": "https://product-selection.grundfos.com/products/cr-cre-cri-crie-crn-crne-crt-crte/crie",
+      "verification": "official_page_title",
+      "descriptionRu": "Вертикальные многоступенчатые насосы",
+      "applicationCandidates": [
+        "process",
+        "boiler",
+        "pressure"
+      ],
+      "article": null,
+      "priceUzs": null,
+      "stock": null,
+      "orderability": "supplier_confirmation_required"
+    },
+    {
+      "name": "CRN",
+      "category": "vertical_multistage",
+      "recordType": "family",
+      "sourceUrl": "https://product-selection.grundfos.com/products/cr-cre-cri-crie-crn-crne-crt-crte/crn",
+      "verification": "official_page_title",
+      "descriptionRu": "Вертикальные многоступенчатые насосы",
+      "applicationCandidates": [
+        "process",
+        "boiler",
+        "pressure"
+      ],
+      "article": null,
+      "priceUzs": null,
+      "stock": null,
+      "orderability": "supplier_confirmation_required"
+    },
+    {
+      "name": "CRNE",
+      "category": "vertical_multistage",
+      "recordType": "family",
+      "sourceUrl": "https://product-selection.grundfos.com/products/cr-cre-cri-crie-crn-crne-crt-crte/crne",
+      "verification": "official_page_title",
+      "descriptionRu": "Вертикальные многоступенчатые насосы",
+      "applicationCandidates": [
+        "process",
+        "boiler",
+        "pressure"
+      ],
+      "article": null,
+      "priceUzs": null,
+      "stock": null,
+      "orderability": "supplier_confirmation_required"
+    },
+    {
+      "name": "CRT",
+      "category": "vertical_multistage",
+      "recordType": "family",
+      "sourceUrl": "https://product-selection.grundfos.com/products/cr-cre-cri-crie-crn-crne-crt-crte/crt",
+      "verification": "official_page_title",
+      "descriptionRu": "Вертикальные многоступенчатые насосы",
+      "applicationCandidates": [
+        "process",
+        "boiler",
+        "pressure"
+      ],
+      "article": null,
+      "priceUzs": null,
+      "stock": null,
+      "orderability": "supplier_confirmation_required"
+    },
+    {
+      "name": "CRNE-HS",
+      "category": "high_pressure",
+      "recordType": "family",
+      "sourceUrl": "https://product-selection.grundfos.com/products/cr-cre-cri-crie-crn-crne-crt-crte/crne-hs-crn-sf",
+      "verification": "official_page_title",
+      "descriptionRu": "Насосы высокого давления",
+      "applicationCandidates": [
+        "process",
+        "boiler"
+      ],
+      "article": null,
+      "priceUzs": null,
+      "stock": null,
+      "orderability": "supplier_confirmation_required"
+    },
+    {
+      "name": "CRN-SF",
+      "category": "high_pressure",
+      "recordType": "family",
+      "sourceUrl": "https://product-selection.grundfos.com/products/cr-cre-cri-crie-crn-crne-crt-crte/crne-hs-crn-sf",
+      "verification": "official_page_title",
+      "descriptionRu": "Насосы высокого давления",
+      "applicationCandidates": [
+        "process",
+        "boiler"
+      ],
+      "article": null,
+      "priceUzs": null,
+      "stock": null,
+      "orderability": "supplier_confirmation_required"
+    },
+    {
+      "name": "NB",
+      "category": "end_suction_close_coupled",
+      "recordType": "family",
+      "sourceUrl": "https://product-selection.grundfos.com/products/nb-nbe-nbe-series-2000",
+      "verification": "official_page_title",
+      "descriptionRu": "Консольные моноблочные насосы",
+      "applicationCandidates": [
+        "process",
+        "hvac",
+        "pressure"
+      ],
+      "article": null,
+      "priceUzs": null,
+      "stock": null,
+      "orderability": "supplier_confirmation_required"
+    },
+    {
+      "name": "NBE",
+      "category": "end_suction_close_coupled",
+      "recordType": "family",
+      "sourceUrl": "https://product-selection.grundfos.com/products/nb-nbe-nbe-series-2000",
+      "verification": "official_page_title",
+      "descriptionRu": "Консольные моноблочные насосы",
+      "applicationCandidates": [
+        "process",
+        "hvac",
+        "pressure"
+      ],
+      "article": null,
+      "priceUzs": null,
+      "stock": null,
+      "orderability": "supplier_confirmation_required"
+    },
+    {
+      "name": "NBE Series 2000",
+      "category": "end_suction_close_coupled",
+      "recordType": "family",
+      "sourceUrl": "https://product-selection.grundfos.com/products/nb-nbe-nbe-series-2000",
+      "verification": "official_page_title",
+      "descriptionRu": "Консольные моноблочные насосы",
+      "applicationCandidates": [
+        "process",
+        "hvac",
+        "pressure"
+      ],
+      "article": null,
+      "priceUzs": null,
+      "stock": null,
+      "orderability": "supplier_confirmation_required"
+    },
+    {
+      "name": "NBG",
+      "category": "end_suction_close_coupled",
+      "recordType": "family",
+      "sourceUrl": "https://product-selection.grundfos.com/products/nbg-nbge",
+      "verification": "official_page_title",
+      "descriptionRu": "Консольные моноблочные насосы",
+      "applicationCandidates": [
+        "process",
+        "hvac",
+        "pressure"
+      ],
+      "article": null,
+      "priceUzs": null,
+      "stock": null,
+      "orderability": "supplier_confirmation_required"
+    },
+    {
+      "name": "NBGE",
+      "category": "end_suction_close_coupled",
+      "recordType": "family",
+      "sourceUrl": "https://product-selection.grundfos.com/products/nbg-nbge",
+      "verification": "official_page_title",
+      "descriptionRu": "Консольные моноблочные насосы",
+      "applicationCandidates": [
+        "process",
+        "hvac",
+        "pressure"
+      ],
+      "article": null,
+      "priceUzs": null,
+      "stock": null,
+      "orderability": "supplier_confirmation_required"
+    },
+    {
+      "name": "NK",
+      "category": "end_suction_long_coupled",
+      "recordType": "family",
+      "sourceUrl": "https://product-selection.grundfos.com/products/nk-nke-nke-series-2000-nk-bare-shaft",
+      "verification": "official_page_title",
+      "descriptionRu": "Консольные насосы на раме",
+      "applicationCandidates": [
+        "process",
+        "hvac",
+        "pressure"
+      ],
+      "article": null,
+      "priceUzs": null,
+      "stock": null,
+      "orderability": "supplier_confirmation_required"
+    },
+    {
+      "name": "NKE",
+      "category": "end_suction_long_coupled",
+      "recordType": "family",
+      "sourceUrl": "https://product-selection.grundfos.com/products/nk-nke-nke-series-2000-nk-bare-shaft",
+      "verification": "official_page_title",
+      "descriptionRu": "Консольные насосы на раме",
+      "applicationCandidates": [
+        "process",
+        "hvac",
+        "pressure"
+      ],
+      "article": null,
+      "priceUzs": null,
+      "stock": null,
+      "orderability": "supplier_confirmation_required"
+    },
+    {
+      "name": "NKE Series 2000",
+      "category": "end_suction_long_coupled",
+      "recordType": "family",
+      "sourceUrl": "https://product-selection.grundfos.com/products/nk-nke-nke-series-2000-nk-bare-shaft",
+      "verification": "official_page_title",
+      "descriptionRu": "Консольные насосы на раме",
+      "applicationCandidates": [
+        "process",
+        "hvac",
+        "pressure"
+      ],
+      "article": null,
+      "priceUzs": null,
+      "stock": null,
+      "orderability": "supplier_confirmation_required"
+    },
+    {
+      "name": "NKG",
+      "category": "end_suction_long_coupled",
+      "recordType": "family",
+      "sourceUrl": "https://product-selection.grundfos.com/products/nkg-nkge-nkg-bare-shaft",
+      "verification": "official_page_title",
+      "descriptionRu": "Консольные насосы на раме",
+      "applicationCandidates": [
+        "process",
+        "hvac",
+        "pressure"
+      ],
+      "article": null,
+      "priceUzs": null,
+      "stock": null,
+      "orderability": "supplier_confirmation_required"
+    },
+    {
+      "name": "NKGE",
+      "category": "end_suction_long_coupled",
+      "recordType": "family",
+      "sourceUrl": "https://product-selection.grundfos.com/products/nkg-nkge-nkg-bare-shaft",
+      "verification": "official_page_title",
+      "descriptionRu": "Консольные насосы на раме",
+      "applicationCandidates": [
+        "process",
+        "hvac",
+        "pressure"
+      ],
+      "article": null,
+      "priceUzs": null,
+      "stock": null,
+      "orderability": "supplier_confirmation_required"
+    },
+    {
+      "name": "CM",
+      "category": "horizontal_multistage",
+      "recordType": "family",
+      "sourceUrl": "https://product-selection.grundfos.com/products/cm-cme/cm",
+      "verification": "official_page_title",
+      "descriptionRu": "Горизонтальные многоступенчатые насосы",
+      "applicationCandidates": [
+        "process",
+        "pressure"
+      ],
+      "article": null,
+      "priceUzs": null,
+      "stock": null,
+      "orderability": "supplier_confirmation_required"
+    },
+    {
+      "name": "CME",
+      "category": "horizontal_multistage",
+      "recordType": "family",
+      "sourceUrl": "https://product-selection.grundfos.com/products/cm-cme/cme",
+      "verification": "official_page_title",
+      "descriptionRu": "Горизонтальные многоступенчатые насосы",
+      "applicationCandidates": [
+        "process",
+        "pressure"
+      ],
+      "article": null,
+      "priceUzs": null,
+      "stock": null,
+      "orderability": "supplier_confirmation_required"
+    },
+    {
+      "name": "TP",
+      "category": "inline",
+      "recordType": "family",
+      "sourceUrl": "https://product-selection.grundfos.com/products/tp-tpe",
+      "verification": "official_page_title",
+      "descriptionRu": "Линейные насосы для инженерных систем предприятий и коммерческих зданий",
+      "applicationCandidates": [
+        "hvac"
+      ],
+      "article": null,
+      "priceUzs": null,
+      "stock": null,
+      "orderability": "supplier_confirmation_required"
+    },
+    {
+      "name": "TPE",
+      "category": "inline",
+      "recordType": "family",
+      "sourceUrl": "https://product-selection.grundfos.com/products/tp-tpe",
+      "verification": "official_page_title",
+      "descriptionRu": "Линейные насосы для инженерных систем предприятий и коммерческих зданий",
+      "applicationCandidates": [
+        "hvac"
+      ],
+      "article": null,
+      "priceUzs": null,
+      "stock": null,
+      "orderability": "supplier_confirmation_required"
+    },
+    {
+      "name": "TPE Series 1000 / TPE2",
+      "category": "inline",
+      "recordType": "family",
+      "sourceUrl": "https://product-selection.grundfos.com/products/tp-tpe/tpe-series-1000-tpe2",
+      "verification": "official_page_title",
+      "descriptionRu": "Линейные насосы для инженерных систем предприятий и коммерческих зданий",
+      "applicationCandidates": [
+        "hvac"
+      ],
+      "article": null,
+      "priceUzs": null,
+      "stock": null,
+      "orderability": "supplier_confirmation_required"
+    },
+    {
+      "name": "TPED Series 1000 / TPE2 D",
+      "category": "inline",
+      "recordType": "family",
+      "sourceUrl": "https://product-selection.grundfos.com/products/tp-tpe/tped-series-1000-tpe2-d",
+      "verification": "official_page_title",
+      "descriptionRu": "Линейные насосы для инженерных систем предприятий и коммерческих зданий",
+      "applicationCandidates": [
+        "hvac"
+      ],
+      "article": null,
+      "priceUzs": null,
+      "stock": null,
+      "orderability": "supplier_confirmation_required"
+    },
+    {
+      "name": "TPED Series 2000 / TPE3 D",
+      "category": "inline",
+      "recordType": "family",
+      "sourceUrl": "https://product-selection.grundfos.com/products/tp-tpe/tped-series-2000-tpe3-d",
+      "verification": "official_page_title",
+      "descriptionRu": "Линейные насосы для инженерных систем предприятий и коммерческих зданий",
+      "applicationCandidates": [
+        "hvac"
+      ],
+      "article": null,
+      "priceUzs": null,
+      "stock": null,
+      "orderability": "supplier_confirmation_required"
+    },
+    {
+      "name": "MAGNA1",
+      "category": "commercial_hvac",
+      "recordType": "family",
+      "sourceUrl": "https://product-selection.grundfos.com/products/magna/magna1",
+      "verification": "official_page_title",
+      "descriptionRu": "Циркуляция в инженерных системах коммерческих объектов",
+      "applicationCandidates": [
+        "hvac"
+      ],
+      "article": null,
+      "priceUzs": null,
+      "stock": null,
+      "orderability": "supplier_confirmation_required"
+    },
+    {
+      "name": "MAGNA3",
+      "category": "commercial_hvac",
+      "recordType": "family",
+      "sourceUrl": "https://product-selection.grundfos.com/products/magna/magna3",
+      "verification": "official_page_title",
+      "descriptionRu": "Циркуляция в инженерных системах коммерческих объектов",
+      "applicationCandidates": [
+        "hvac"
+      ],
+      "article": null,
+      "priceUzs": null,
+      "stock": null,
+      "orderability": "supplier_confirmation_required"
+    },
+    {
+      "name": "Hydro MPC",
+      "category": "pressure_systems",
+      "recordType": "family",
+      "sourceUrl": "https://product-selection.grundfos.com/products/hydro-mpc",
+      "verification": "official_page_title",
+      "descriptionRu": "Многонасосные установки повышения давления",
+      "applicationCandidates": [
+        "pressure",
+        "process"
+      ],
+      "article": null,
+      "priceUzs": null,
+      "stock": null,
+      "orderability": "supplier_confirmation_required"
+    },
+    {
+      "name": "Hydro Multi-E",
+      "category": "pressure_systems",
+      "recordType": "family",
+      "sourceUrl": "https://product-selection.grundfos.com/products/hydro-multi-e",
+      "verification": "official_page_title",
+      "descriptionRu": "Многонасосные установки повышения давления",
+      "applicationCandidates": [
+        "pressure",
+        "process"
+      ],
+      "article": null,
+      "priceUzs": null,
+      "stock": null,
+      "orderability": "supplier_confirmation_required"
+    },
+    {
+      "name": "Hydro Multi-B",
+      "category": "pressure_systems",
+      "recordType": "family",
+      "sourceUrl": "https://product-selection.grundfos.com/products/hydro-multi-b",
+      "verification": "official_page_title",
+      "descriptionRu": "Многонасосные установки повышения давления",
+      "applicationCandidates": [
+        "pressure",
+        "process"
+      ],
+      "article": null,
+      "priceUzs": null,
+      "stock": null,
+      "orderability": "supplier_confirmation_required"
+    },
+    {
+      "name": "Hydro Multi-S",
+      "category": "pressure_systems",
+      "recordType": "family",
+      "sourceUrl": "https://product-selection.grundfos.com/products/hydro-multi-s",
+      "verification": "official_page_title",
+      "descriptionRu": "Многонасосные установки повышения давления",
+      "applicationCandidates": [
+        "pressure",
+        "process"
+      ],
+      "article": null,
+      "priceUzs": null,
+      "stock": null,
+      "orderability": "supplier_confirmation_required"
+    },
+    {
+      "name": "SP",
+      "category": "groundwater",
+      "recordType": "family",
+      "sourceUrl": "https://product-selection.grundfos.com/products/sp-sp-g",
+      "verification": "official_page_title",
+      "descriptionRu": "Погружные насосы для водозабора и водоснабжения объектов",
+      "applicationCandidates": [
+        "groundwater"
+      ],
+      "article": null,
+      "priceUzs": null,
+      "stock": null,
+      "orderability": "supplier_confirmation_required"
+    },
+    {
+      "name": "SPE",
+      "category": "groundwater",
+      "recordType": "family",
+      "sourceUrl": "https://product-selection.grundfos.com/products/sp-sp-g",
+      "verification": "official_page_title",
+      "descriptionRu": "Погружные насосы для водозабора и водоснабжения объектов",
+      "applicationCandidates": [
+        "groundwater"
+      ],
+      "article": null,
+      "priceUzs": null,
+      "stock": null,
+      "orderability": "supplier_confirmation_required"
+    },
+    {
+      "name": "SP-NE",
+      "category": "groundwater",
+      "recordType": "family",
+      "sourceUrl": "https://product-selection.grundfos.com/products/sp-sp-g",
+      "verification": "official_page_title",
+      "descriptionRu": "Погружные насосы для водозабора и водоснабжения объектов",
+      "applicationCandidates": [
+        "groundwater"
+      ],
+      "article": null,
+      "priceUzs": null,
+      "stock": null,
+      "orderability": "supplier_confirmation_required"
+    },
+    {
+      "name": "SE1",
+      "category": "industrial_wastewater",
+      "recordType": "family",
+      "sourceUrl": "https://product-selection.grundfos.com/products/sesl-range-48/se1",
+      "verification": "official_page_title",
+      "descriptionRu": "Насосы для сточных и технологических вод",
+      "applicationCandidates": [
+        "wastewater"
+      ],
+      "article": null,
+      "priceUzs": null,
+      "stock": null,
+      "orderability": "supplier_confirmation_required"
+    },
+    {
+      "name": "SEV",
+      "category": "industrial_wastewater",
+      "recordType": "family",
+      "sourceUrl": "https://product-selection.grundfos.com/products/sesl-range-48/sev",
+      "verification": "official_page_title",
+      "descriptionRu": "Насосы для сточных и технологических вод",
+      "applicationCandidates": [
+        "wastewater"
+      ],
+      "article": null,
+      "priceUzs": null,
+      "stock": null,
+      "orderability": "supplier_confirmation_required"
+    },
+    {
+      "name": "SL1",
+      "category": "industrial_wastewater",
+      "recordType": "family",
+      "sourceUrl": "https://product-selection.grundfos.com/products/sesl-range-48/sl1",
+      "verification": "official_page_title",
+      "descriptionRu": "Насосы для сточных и технологических вод",
+      "applicationCandidates": [
+        "wastewater"
+      ],
+      "article": null,
+      "priceUzs": null,
+      "stock": null,
+      "orderability": "supplier_confirmation_required"
+    },
+    {
+      "name": "SLV",
+      "category": "industrial_wastewater",
+      "recordType": "family",
+      "sourceUrl": "https://product-selection.grundfos.com/products/sesl-range-48/slv",
+      "verification": "official_page_title",
+      "descriptionRu": "Насосы для сточных и технологических вод",
+      "applicationCandidates": [
+        "wastewater"
+      ],
+      "article": null,
+      "priceUzs": null,
+      "stock": null,
+      "orderability": "supplier_confirmation_required"
+    },
+    {
+      "name": "S",
+      "category": "industrial_wastewater",
+      "recordType": "family",
+      "sourceUrl": "https://product-selection.grundfos.com/products/s",
+      "verification": "official_page_title",
+      "descriptionRu": "Насосы для сточных и технологических вод",
+      "applicationCandidates": [
+        "wastewater"
+      ],
+      "article": null,
+      "priceUzs": null,
+      "stock": null,
+      "orderability": "supplier_confirmation_required"
+    },
+    {
+      "name": "MULTILIFT",
+      "category": "industrial_wastewater",
+      "recordType": "family",
+      "sourceUrl": "https://product-selection.grundfos.com/products/multilift",
+      "verification": "official_page_title",
+      "descriptionRu": "Канализационные установки для коммерческих объектов",
+      "applicationCandidates": [
+        "wastewater"
+      ],
+      "article": null,
+      "priceUzs": null,
+      "stock": null,
+      "orderability": "supplier_confirmation_required"
+    },
+    {
+      "name": "DDA",
+      "category": "industrial_dosing",
+      "recordType": "family",
+      "sourceUrl": "https://product-selection.grundfos.com/products/dosing-pumps-digital/dda",
+      "verification": "official_page_title",
+      "descriptionRu": "Дозирование реагентов и водоподготовка",
+      "applicationCandidates": [
+        "dosing",
+        "process"
+      ],
+      "article": null,
+      "priceUzs": null,
+      "stock": null,
+      "orderability": "supplier_confirmation_required"
+    },
+    {
+      "name": "DDC",
+      "category": "industrial_dosing",
+      "recordType": "family",
+      "sourceUrl": "https://product-selection.grundfos.com/products/dosing-pumps-digital/ddc",
+      "verification": "official_page_title",
+      "descriptionRu": "Дозирование реагентов и водоподготовка",
+      "applicationCandidates": [
+        "dosing",
+        "process"
+      ],
+      "article": null,
+      "priceUzs": null,
+      "stock": null,
+      "orderability": "supplier_confirmation_required"
+    },
+    {
+      "name": "DDE",
+      "category": "industrial_dosing",
+      "recordType": "family",
+      "sourceUrl": "https://product-selection.grundfos.com/products/dosing-pumps-digital/dde",
+      "verification": "official_page_title",
+      "descriptionRu": "Дозирование реагентов и водоподготовка",
+      "applicationCandidates": [
+        "dosing",
+        "process"
+      ],
+      "article": null,
+      "priceUzs": null,
+      "stock": null,
+      "orderability": "supplier_confirmation_required"
+    },
+    {
+      "name": "DDI",
+      "category": "industrial_dosing",
+      "recordType": "family",
+      "sourceUrl": "https://product-selection.grundfos.com/products/dosing-pumps-digital/ddi",
+      "verification": "official_page_title",
+      "descriptionRu": "Дозирование реагентов и водоподготовка",
+      "applicationCandidates": [
+        "dosing",
+        "process"
+      ],
+      "article": null,
+      "priceUzs": null,
+      "stock": null,
+      "orderability": "supplier_confirmation_required"
+    },
+    {
+      "name": "DMH",
+      "category": "industrial_dosing",
+      "recordType": "family",
+      "sourceUrl": "https://product-selection.grundfos.com/products/dosing-pumps-mechanical/dmh",
+      "verification": "official_page_title",
+      "descriptionRu": "Дозирование реагентов и водоподготовка",
+      "applicationCandidates": [
+        "dosing",
+        "process"
+      ],
+      "article": null,
+      "priceUzs": null,
+      "stock": null,
+      "orderability": "supplier_confirmation_required"
+    },
+    {
+      "name": "DMX",
+      "category": "industrial_dosing",
+      "recordType": "family",
+      "sourceUrl": "https://product-selection.grundfos.com/products/dosing-pumps-mechanical/dmx",
+      "verification": "official_page_title",
+      "descriptionRu": "Дозирование реагентов и водоподготовка",
+      "applicationCandidates": [
+        "dosing",
+        "process"
+      ],
+      "article": null,
+      "priceUzs": null,
+      "stock": null,
+      "orderability": "supplier_confirmation_required"
+    },
+    {
+      "name": "MIXIT",
+      "category": "industrial_controls",
+      "recordType": "family",
+      "sourceUrl": "https://product-selection.grundfos.com/products/mixit",
+      "verification": "official_page_title",
+      "descriptionRu": "Управление и защита насосных систем",
+      "applicationCandidates": [
+        "hvac"
+      ],
+      "article": null,
+      "priceUzs": null,
+      "stock": null,
+      "orderability": "supplier_confirmation_required"
+    },
+    {
+      "name": "MP 204",
+      "category": "industrial_controls",
+      "recordType": "family",
+      "sourceUrl": "https://product-selection.grundfos.com/products/mp/mp-204",
+      "verification": "official_page_title",
+      "descriptionRu": "Управление и защита насосных систем",
+      "applicationCandidates": [
+        "groundwater",
+        "process"
+      ],
+      "article": null,
+      "priceUzs": null,
+      "stock": null,
+      "orderability": "supplier_confirmation_required"
+    },
+    {
+      "name": "LC 231",
+      "category": "industrial_controls",
+      "recordType": "family",
+      "sourceUrl": "https://product-selection.grundfos.com/products/lc/lc-231",
+      "verification": "official_page_title",
+      "descriptionRu": "Управление и защита насосных систем",
+      "applicationCandidates": [
+        "wastewater"
+      ],
+      "article": null,
+      "priceUzs": null,
+      "stock": null,
+      "orderability": "supplier_confirmation_required"
+    },
+    {
+      "name": "LC 241",
+      "category": "industrial_controls",
+      "recordType": "family",
+      "sourceUrl": "https://product-selection.grundfos.com/products/lc/lc-241",
+      "verification": "official_page_title",
+      "descriptionRu": "Управление и защита насосных систем",
+      "applicationCandidates": [
+        "wastewater"
+      ],
+      "article": null,
+      "priceUzs": null,
+      "stock": null,
+      "orderability": "supplier_confirmation_required"
+    },
+    {
+      "name": "LC 242",
+      "category": "industrial_controls",
+      "recordType": "family",
+      "sourceUrl": "https://product-selection.grundfos.com/products/lc/lc-242",
+      "verification": "official_page_title",
+      "descriptionRu": "Управление и защита насосных систем",
+      "applicationCandidates": [
+        "wastewater"
+      ],
+      "article": null,
+      "priceUzs": null,
+      "stock": null,
+      "orderability": "supplier_confirmation_required"
+    },
+    {
+      "name": "Hydro EN",
+      "category": "fire_systems",
+      "recordType": "family",
+      "sourceUrl": "https://product-selection.grundfos.com/products/hydro-en",
+      "verification": "official_page_title",
+      "descriptionRu": "Насосные установки пожаротушения",
+      "applicationCandidates": [
+        "fire"
+      ],
+      "article": null,
+      "priceUzs": null,
+      "stock": null,
+      "orderability": "supplier_confirmation_required"
+    }
+  ],
+  "representativeModels": [
+    {
+      "family": "CR",
+      "name": "CR 5-8 A-FGJ-A-E-HQQE",
+      "article": "96511750",
+      "recordType": "manufacturer_product",
+      "sourceUrl": "https://product-selection.grundfos.com/products/cr-cre-cri-crie-crn-crne-crt-crte/cr/cr-5-8-96511750",
+      "verification": "official_product_title_and_indexed_specs",
+      "specs": {
+        "ratedFlow": {
+          "value": 5.8,
+          "unit": "м³/ч",
+          "sourceUrl": "https://product-selection.grundfos.com/ae/products/cr-cre-cri-crie-crn-crne-crt-crte/cr/cr-5-8-96511750",
+          "evidence": "official_indexed_product_specification"
+        },
+        "ratedHead": {
+          "value": 40.3,
+          "unit": "м",
+          "sourceUrl": "https://product-selection.grundfos.com/ae/products/cr-cre-cri-crie-crn-crne-crt-crte/cr/cr-5-8-96511750",
+          "evidence": "official_indexed_product_specification"
+        },
+        "maximumHead": {
+          "value": 56.5,
+          "unit": "м",
+          "sourceUrl": "https://product-selection.grundfos.com/ae/products/cr-cre-cri-crie-crn-crne-crt-crte/cr/cr-5-8-96511750",
+          "evidence": "official_indexed_product_specification"
+        },
+        "motorRatedPowerP2": {
+          "value": 1.1,
+          "unit": "кВт",
+          "sourceUrl": "https://product-selection.grundfos.com/ae/products/cr-cre-cri-crie-crn-crne-crt-crte/cr/cr-5-8-96511750",
+          "evidence": "official_indexed_product_specification"
+        },
+        "frequency": {
+          "value": 50,
+          "unit": "Гц",
+          "sourceUrl": "https://product-selection.grundfos.com/hk/products/cr-cre-cri-crie-crn-crne-crt-crte/cr/cr-5-8-96511750",
+          "evidence": "official_indexed_product_specification"
+        },
+        "voltage": {
+          "value": "3 × 220–240 Δ / 380–415 Y",
+          "unit": "В",
+          "sourceUrl": "https://product-selection.grundfos.com/th/products/cr-cre-cri-crie-crn-crne-crt-crte/cr/cr-5-8-96511750",
+          "evidence": "official_indexed_product_specification"
+        }
+      },
+      "priceUzs": null,
+      "stock": null,
+      "ctaRu": "Запросить предложение",
+      "orderability": "unverified"
+    },
+    {
+      "family": "CR",
+      "name": "CR 10-8 A-A-A-E-HQQE",
+      "article": "96501230",
+      "recordType": "manufacturer_product",
+      "sourceUrl": "https://product-selection.grundfos.com/products/cr-cre-cri-crie-crn-crne-crt-crte/cr/cr-10-8-96501230",
+      "verification": "official_product_title_and_indexed_specs",
+      "specs": {
+        "ratedFlow": {
+          "value": 10,
+          "unit": "м³/ч",
+          "sourceUrl": "https://product-selection.grundfos.com/id/products/cr-cre-cri-crie-crn-crne-crt-crte/cr/cr-10-8-96501230",
+          "evidence": "official_indexed_product_specification"
+        },
+        "ratedHead": {
+          "value": 64.8,
+          "unit": "м",
+          "sourceUrl": "https://product-selection.grundfos.com/id/products/cr-cre-cri-crie-crn-crne-crt-crte/cr/cr-10-8-96501230",
+          "evidence": "official_indexed_product_specification"
+        },
+        "maximumHead": {
+          "value": 81.7,
+          "unit": "м",
+          "sourceUrl": "https://product-selection.grundfos.com/id/products/cr-cre-cri-crie-crn-crne-crt-crte/cr/cr-10-8-96501230",
+          "evidence": "official_indexed_product_specification"
+        },
+        "motorRatedPowerP2": {
+          "value": 3,
+          "unit": "кВт",
+          "sourceUrl": "https://product-selection.grundfos.com/id/products/cr-cre-cri-crie-crn-crne-crt-crte/cr/cr-10-8-96501230",
+          "evidence": "official_indexed_product_specification"
+        },
+        "frequency": {
+          "value": 50,
+          "unit": "Гц",
+          "sourceUrl": "https://product-selection.grundfos.com/id/products/cr-cre-cri-crie-crn-crne-crt-crte/cr/cr-10-8-96501230",
+          "evidence": "official_indexed_product_specification"
+        },
+        "voltage": {
+          "value": "3 × 380–415 Δ",
+          "unit": "В",
+          "sourceUrl": "https://product-selection.grundfos.com/id/products/cr-cre-cri-crie-crn-crne-crt-crte/cr/cr-10-8-96501230",
+          "evidence": "official_indexed_product_specification"
+        }
+      },
+      "sourceVariationNote": "Saudi page indexed a different voltage (400–480 Δ) for the same product number. The listed electrical values follow the Indonesia/Australia/UK sources; confirm supplier/nameplate before sale.",
+      "priceUzs": null,
+      "stock": null,
+      "ctaRu": "Запросить предложение",
+      "orderability": "unverified"
+    },
+    {
+      "family": "CR",
+      "name": "CR 15-5 A-A-A-E-HQBE",
+      "article": "97844747",
+      "recordType": "manufacturer_product",
+      "sourceUrl": "https://product-selection.grundfos.com/products/cr-cre-cri-crie-crn-crne-crt-crte/cr/cr-15-5-97844747?pumpsystemid=2901622952&tab=variant-curves",
+      "verification": "official_indexed_product_title_and_specs; direct base URL did not retrieve",
+      "specs": {
+        "ratedFlow": {
+          "value": 17,
+          "unit": "м³/ч",
+          "sourceUrl": "https://product-selection.grundfos.com/products/cr-cre-cri-crie-crn-crne-crt-crte/cr/cr-15-5-97844747?pumpsystemid=2901622952&tab=variant-curves",
+          "evidence": "official_indexed_product_specification"
+        },
+        "ratedHead": {
+          "value": 55.4,
+          "unit": "м",
+          "sourceUrl": "https://product-selection.grundfos.com/products/cr-cre-cri-crie-crn-crne-crt-crte/cr/cr-15-5-97844747?pumpsystemid=2901622952&tab=variant-curves",
+          "evidence": "official_indexed_product_specification"
+        },
+        "maximumHead": {
+          "value": 70.6,
+          "unit": "м",
+          "sourceUrl": "https://product-selection.grundfos.com/products/cr-cre-cri-crie-crn-crne-crt-crte/cr/cr-15-5-97844747?pumpsystemid=2901622952&tab=variant-curves",
+          "evidence": "official_indexed_product_specification"
+        },
+        "motorRatedPowerP2": {
+          "value": 4,
+          "unit": "кВт",
+          "sourceUrl": "https://product-selection.grundfos.com/products/cr-cre-cri-crie-crn-crne-crt-crte/cr/cr-15-5-97844747?pumpsystemid=2901622952&tab=variant-curves",
+          "evidence": "official_indexed_product_specification"
+        },
+        "frequency": {
+          "value": 50,
+          "unit": "Гц",
+          "sourceUrl": "https://product-selection.grundfos.com/products/cr-cre-cri-crie-crn-crne-crt-crte/cr/cr-15-5-97844747?pumpsystemid=2901622952&tab=variant-curves",
+          "evidence": "official_indexed_product_specification"
+        },
+        "voltage": {
+          "value": "3 × 380–415 Δ",
+          "unit": "В",
+          "sourceUrl": "https://product-selection.grundfos.com/products/cr-cre-cri-crie-crn-crne-crt-crte/cr/cr-15-5-97844747?pumpsystemid=2901622952&tab=variant-curves",
+          "evidence": "official_indexed_product_specification"
+        }
+      },
+      "priceUzs": null,
+      "stock": null,
+      "ctaRu": "Запросить предложение",
+      "orderability": "unverified"
+    }
+  ],
+  "navigation": {
+    "purposeFilters": [
+      {
+        "id": "process",
+        "nameRu": "Производство и технологические процессы"
+      },
+      {
+        "id": "boiler",
+        "nameRu": "Котельные и паровые системы"
+      },
+      {
+        "id": "hvac",
+        "nameRu": "Отопление и охлаждение объектов"
+      },
+      {
+        "id": "pressure",
+        "nameRu": "Повышение давления"
+      },
+      {
+        "id": "groundwater",
+        "nameRu": "Водозабор и водоснабжение"
+      },
+      {
+        "id": "wastewater",
+        "nameRu": "Промышленные стоки"
+      },
+      {
+        "id": "dosing",
+        "nameRu": "Дозирование и водоподготовка"
+      },
+      {
+        "id": "fire",
+        "nameRu": "Пожаротушение"
+      }
+    ],
+    "minimalCatalogFiltersRu": [
+      "Назначение",
+      "Конструкция насоса",
+      "Серия",
+      "Насос / установка / автоматика / запчасть"
+    ],
+    "numericFiltersRule": "Only expose flow/head/power/voltage filters against populated, source-verified SKU fields. Never propagate a representative model’s specs to all family variants.",
+    "selectionFormRu": [
+      "Задача и перекачиваемая среда",
+      "Рабочая подача Q, м³/ч",
+      "Рабочий напор H, м",
+      "Температура среды, °C",
+      "Электропитание и частота",
+      "Режим работы и резервирование",
+      "Требования к материалам и уплотнению",
+      "Файл проекта или фото шильдика"
+    ],
+    "hydraulicsNote": "Rated flow and rated head form a quoted nominal point; maximum head is a separate value. Do not present maxima as the working point.",
+    "fireRule": "Keep fire systems in a dedicated category. Do not label a generic CR/NB/NK/Hydro boosting variant as certified for fire protection without its exact project/manufacturer documentation."
+  },
+  "industrialSpares": {
+    "sourceUrl": "https://www.grundfos.com/solutions/support/how-to-guides/how-to-find-the-right-pump-spare-parts",
+    "scopeRu": "Запчасти для CR/CRE/CRI/CRN, NB/NK, TP/TPE, Hydro, SP, SE/SL/S и промышленного дозирования.",
+    "navigationGroupsRu": [
+      "Торцевые уплотнения",
+      "Комплекты уплотнений",
+      "Рабочие колёса и гидравлика",
+      "Электродвигатели",
+      "Датчики и автоматика",
+      "Сервисные комплекты"
+    ],
+    "groupsAreNotVerifiedPartRecords": true,
+    "requiredFields": [
+      "pumpProductNumber",
+      "pumpFullTypeDesignation",
+      "productionDateOrCode",
+      "nameplatePhoto",
+      "componentPositionOrKnownPartNumber"
+    ],
+    "workflowRu": "Найти точный насос в Product Center → выбрать список Spare parts по дате производства → сопоставить позицию на взрыв-схеме с сервисным комплектом → подтвердить артикул и совместимость.",
+    "skuRecords": [],
+    "compatibilityRule": "No fabricated kit articles or family-wide compatibility claims."
+  },
+  "sources": {
+    "catalog": "https://product-selection.grundfos.com/products",
+    "boilerFeed": "https://www.grundfos.com/solutions/industries/industrial-manufacturing-oems/boiler-feed",
+    "commercialMultilift": "https://www.grundfos.com/uk/learn/ecademy/all-courses/wastewater-in-commercial-buildings/the-grundfos-multilift",
+    "industrialSewageOverview": "https://product-selection.grundfos.com/id/categories/pumps/submersible-wastewater-pumps",
+    "seSlManual": "https://api.grundfos.com/literature/Grundfosliterature-3979032.pdf"
+  },
+  "exportResearch": "No full publicly documented machine-readable manufacturer catalog feed verified. Import manufacturer/distributor data for complete industrial SKU coverage, stock, prices, image rights, specs and part compatibility."
+}

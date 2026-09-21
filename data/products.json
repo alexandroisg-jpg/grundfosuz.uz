@@ -1,0 +1,346 @@
+[
+  {
+    "id": "industrial-1022353",
+    "name": "CR 32-1",
+    "category": "multistage",
+    "description": "Вертикальный многоступенчатый насос",
+    "price": 56500000,
+    "priceType": "sale",
+    "preliminary": true,
+    "source": "https://stroyka.uz/offer/grundfos-nasos-cr32-1-a-f-a-e-hqqe-3x400d-50-hz-1022353",
+    "sourceName": "KASH lux Olay · Stroyka.uz",
+    "checkedAt": "2026-09-17",
+    "specs": {
+      "Питание": "3 × 400 В Δ",
+      "Частота": "50 Гц",
+      "Исполнение": "CR32-1 A-F-A-E-HQQE 3x400D 50 HZ"
+    },
+    "family": "CR",
+    "imageNote": "Фото из карточки поставщика.",
+    "image": "https://stroyka.uz/upload/iblock/7f9/89ojv928rcjvr5xwyj0wf1wcvxwlcr8l.png",
+    "sourceUpdatedAt": "2024-08-16"
+  },
+  {
+    "id": "industrial-1022377",
+    "name": "NB 40-125/105",
+    "category": "endsuction",
+    "description": "Консольный моноблочный насос",
+    "price": 44500000,
+    "priceType": "sale",
+    "preliminary": true,
+    "source": "https://stroyka.uz/offer/grundfos-nasos-nb-40-125-105af2abaqe-1022377",
+    "sourceName": "KASH lux Olay · Stroyka.uz",
+    "checkedAt": "2026-09-17",
+    "specs": {
+      "Серия": "NB",
+      "Исполнение": "NB 40-125/105AF2ABAQE"
+    },
+    "family": "NB",
+    "imageNote": "Фото из карточки поставщика.",
+    "image": "https://stroyka.uz/upload/iblock/816/20wwxa9tt3pa88s7pge1sbuo70gl7noo.png",
+    "sourceUpdatedAt": "2024-08-16"
+  },
+  {
+    "id": "industrial-1022405",
+    "name": "TP 80-330/2",
+    "category": "inline",
+    "description": "Насос in-line для инженерных систем",
+    "price": 74500000,
+    "priceType": "sale",
+    "preliminary": true,
+    "source": "https://stroyka.uz/offer/grundfos-nasos-tp-80-330-2-a-f-a-bqqe-nx1-1022405",
+    "sourceName": "KASH lux Olay · Stroyka.uz",
+    "checkedAt": "2026-09-17",
+    "specs": {
+      "Серия": "TP",
+      "Исполнение": "TP 80-330/2 A-F-A-BQQE-NX1"
+    },
+    "family": "TP",
+    "imageNote": "Фото из карточки поставщика.",
+    "image": "https://stroyka.uz/upload/iblock/bf6/8afvxekc5ekgq3bjo69vxr3ed3z79pb1.png",
+    "sourceUpdatedAt": "2024-08-16"
+  },
+  {
+    "id": "industrial-1022378",
+    "name": "NB 50-160/150",
+    "category": "endsuction",
+    "description": "Консольный моноблочный насос",
+    "price": 80000000,
+    "priceType": "sale",
+    "preliminary": true,
+    "source": "https://stroyka.uz/offer/grundfos-nasos-nb-50-160-150af2abaqe-1022378",
+    "sourceName": "KASH lux Olay · Stroyka.uz",
+    "checkedAt": "2026-09-17",
+    "specs": {
+      "Серия": "NB",
+      "Исполнение": "NB 50-160/150AF2ABAQE"
+    },
+    "family": "NB",
+    "imageNote": "Иллюстрация серии NB. Исполнение на фото может отличаться.",
+    "image": "https://stroyka.uz/upload/iblock/816/20wwxa9tt3pa88s7pge1sbuo70gl7noo.png",
+    "sourceUpdatedAt": "2024-08-16"
+  },
+  {
+    "id": "industrial-1022407",
+    "name": "TPE3 50-200",
+    "category": "inline",
+    "description": "Насос in-line для инженерных систем",
+    "price": 104500000,
+    "priceType": "sale",
+    "preliminary": true,
+    "source": "https://stroyka.uz/offer/grundfos-nasos-tpe3-50-200-s-a-f-a-bqqe-hac-1022407",
+    "sourceName": "KASH lux Olay · Stroyka.uz",
+    "checkedAt": "2026-09-17",
+    "specs": {
+      "Серия": "TPE",
+      "Исполнение": "TPE3 50-200 S-A-F-A-BQQE-HAC"
+    },
+    "family": "TPE",
+    "imageNote": "Иллюстрация серии TPE. Исполнение на фото может отличаться.",
+    "image": "https://stroyka.uz/upload/iblock/bb5/kmdvi722k4pnqcm9fal7arbrsdo0743p.png",
+    "sourceUpdatedAt": "2024-08-16"
+  },
+  {
+    "id": "magna3-32-60",
+    "name": "MAGNA3 32-60",
+    "category": "inline",
+    "description": "Циркуляционный насос для инженерных систем объектов",
+    "image": "https://220volt.uz/image/cache/catalog/GRUNDFOS/nasos-cirkulyacionnyy-magna-3-1000x1000.jpg",
+    "price": 22000000,
+    "priceType": "sale",
+    "source": "https://220volt.uz/circular_pumps/nasos-cirkulyacionnyy-grundfos-magna-3-32-60-gayka-v-komplekte",
+    "sourceName": "220volt.uz",
+    "checkedAt": "2026-09-17",
+    "specs": {
+      "Подача": "4,71 м³/ч",
+      "Напор": "4,77 м",
+      "Давление": "10 бар"
+    },
+    "sourceAvailability": "В наличии — по публичной карточке продавца, требует подтверждения",
+    "evidenceNote": "Цена и наличие опубликованы продавцом; не являются собственной офертой или подтверждением складского остатка. Дата обновления карточки не указана.",
+    "imageNote": "Фото серии MAGNA3 из карточки продавца.",
+    "preliminary": true,
+    "family": "MAGNA3"
+  },
+  {
+    "id": "industrial-1022381",
+    "name": "NB 80-250/247",
+    "category": "endsuction",
+    "description": "Консольный моноблочный насос",
+    "price": 106000000,
+    "priceType": "sale",
+    "preliminary": true,
+    "source": "https://stroyka.uz/offer/grundfos-nasos-nb-80-250-247af2abaqe-1022381",
+    "sourceName": "KASH lux Olay · Stroyka.uz",
+    "checkedAt": "2026-09-17",
+    "specs": {
+      "Серия": "NB",
+      "Исполнение": "NB 80-250/247AF2ABAQE"
+    },
+    "family": "NB",
+    "imageNote": "Фото из карточки поставщика.",
+    "image": "https://stroyka.uz/upload/iblock/d38/n9pq5tf79023mwgfeph60it2g0sdfjy2.png",
+    "sourceUpdatedAt": "2024-08-16"
+  },
+  {
+    "id": "industrial-1022380",
+    "name": "NB 65-315/320",
+    "category": "endsuction",
+    "description": "Консольный моноблочный насос",
+    "price": 140000000,
+    "priceType": "sale",
+    "preliminary": true,
+    "source": "https://stroyka.uz/offer/grundfos-nasos-nb-65-315-320af2abaqe-1022380",
+    "sourceName": "KASH lux Olay · Stroyka.uz",
+    "checkedAt": "2026-09-17",
+    "specs": {
+      "Серия": "NB",
+      "Исполнение": "NB 65-315/320AF2ABAQE"
+    },
+    "family": "NB",
+    "imageNote": "Иллюстрация серии NB. Исполнение на фото может отличаться.",
+    "image": "https://stroyka.uz/upload/iblock/816/20wwxa9tt3pa88s7pge1sbuo70gl7noo.png",
+    "sourceUpdatedAt": "2024-08-16"
+  },
+  {
+    "id": "industrial-1022379",
+    "name": "NB 65-160/143",
+    "category": "endsuction",
+    "description": "Консольный моноблочный насос",
+    "price": 85000000,
+    "priceType": "sale",
+    "preliminary": true,
+    "source": "https://stroyka.uz/offer/grundfos-nasos-nb-65-160-143af2abaqe-1022379",
+    "sourceName": "KASH lux Olay · Stroyka.uz",
+    "checkedAt": "2026-09-17",
+    "specs": {
+      "Серия": "NB",
+      "Исполнение": "NB 65-160/143AF2ABAQE"
+    },
+    "family": "NB",
+    "imageNote": "Иллюстрация серии NB. Исполнение на фото может отличаться.",
+    "image": "https://stroyka.uz/upload/iblock/816/20wwxa9tt3pa88s7pge1sbuo70gl7noo.png",
+    "sourceUpdatedAt": "2024-08-16"
+  },
+  {
+    "id": "industrial-1022408",
+    "name": "TPE3 65-200",
+    "category": "inline",
+    "description": "Насос in-line для инженерных систем",
+    "price": 121000000,
+    "priceType": "sale",
+    "preliminary": true,
+    "source": "https://stroyka.uz/offer/grundfos-nasos-tpe3-65-200-s-a-f-a-bqqe-gdc-1022408",
+    "sourceName": "KASH lux Olay · Stroyka.uz",
+    "checkedAt": "2026-09-17",
+    "specs": {
+      "Серия": "TPE",
+      "Исполнение": "TPE3 65-200 S-A-F-A-BQQE-GDC"
+    },
+    "family": "TPE",
+    "imageNote": "Фото из карточки поставщика.",
+    "image": "https://stroyka.uz/upload/iblock/bb5/kmdvi722k4pnqcm9fal7arbrsdo0743p.png",
+    "sourceUpdatedAt": "2024-08-16"
+  },
+  {
+    "id": "industrial-1022406",
+    "name": "TPE3 40-200",
+    "category": "inline",
+    "description": "Насос in-line для инженерных систем",
+    "price": 100000000,
+    "priceType": "sale",
+    "preliminary": true,
+    "source": "https://stroyka.uz/offer/grundfos-nasos-tpe3-40-200-s-a-f-a-bqqe-gdc-1022406",
+    "sourceName": "KASH lux Olay · Stroyka.uz",
+    "checkedAt": "2026-09-17",
+    "specs": {
+      "Серия": "TPE",
+      "Исполнение": "TPE3 40-200 S-A-F-A-BQQE-GDC"
+    },
+    "family": "TPE",
+    "imageNote": "Иллюстрация серии TPE. Исполнение на фото может отличаться.",
+    "image": "https://stroyka.uz/upload/iblock/bb5/kmdvi722k4pnqcm9fal7arbrsdo0743p.png",
+    "sourceUpdatedAt": "2024-08-16"
+  },
+  {
+    "id": "magna3-32-80",
+    "name": "MAGNA3 32-80",
+    "category": "inline",
+    "description": "Циркуляционный насос для инженерных систем объектов",
+    "image": "https://220volt.uz/image/cache/catalog/GRUNDFOS/nasos-cirkulyacionnyy-magna-3-1000x1000.jpg",
+    "price": 30000000,
+    "priceType": "sale",
+    "source": "https://220volt.uz/circular_pumps/nasos-cirkulyacionnyy-grundfos-magna-3-32-80-gayka-v-komplekte",
+    "sourceName": "220volt.uz",
+    "checkedAt": "2026-09-17",
+    "specs": {
+      "Подача": "4,79 м³/ч",
+      "Напор": "6,285 м",
+      "Давление": "10 бар"
+    },
+    "sourceAvailability": "В наличии — по публичной карточке продавца, требует подтверждения",
+    "evidenceNote": "Цена и наличие опубликованы продавцом; не являются собственной офертой или подтверждением складского остатка. Дата обновления карточки не указана.",
+    "imageNote": "Фото серии MAGNA3 из карточки продавца.",
+    "preliminary": true,
+    "family": "MAGNA3"
+  },
+  {
+    "id": "nbe-65-200-205",
+    "name": "NBE 65-200/205",
+    "category": "endsuction",
+    "description": "Консольный насос с регулированием скорости. Исполнение по КП поставщика.",
+    "price": 175000000,
+    "priceType": "sale",
+    "preliminary": true,
+    "source": "https://gidropump.uz/",
+    "sourceName": "Gidro Pump Servis · КП, предоставленное владельцем",
+    "checkedAt": "2026-09-17",
+    "sourceUpdatedAt": "2025-08-18",
+    "specs": {
+      "Серия": "NBE",
+      "Исполнение": "NBE 65-200/205 A-F2-A-BQQE"
+    },
+    "priceNote": "Предварительная цена с НДС 12%. Поставка и полное исполнение требуют подтверждения."
+  },
+  {
+    "id": "mge100ld-component",
+    "name": "MGE100LD — комплектующий узел",
+    "category": "controls",
+    "description": "Позиция «частотник» из КП поставщика. Комплектность и совместимость требуют уточнения.",
+    "price": 165500000,
+    "priceType": "sale",
+    "preliminary": true,
+    "source": "https://gidropump.uz/",
+    "sourceName": "Gidro Pump Servis · КП, предоставленное владельцем",
+    "checkedAt": "2026-09-17",
+    "sourceUpdatedAt": "2025-08-18",
+    "specs": {
+      "Обозначение в КП": "MGE100LD",
+      "Комплектность": "Уточняется по полному коду изделия"
+    },
+    "priceNote": "Предварительная цена с НДС 12% для позиции из КП. Это не универсальная цена для всех исполнений MGE100LD."
+  },
+  {
+    "id": "cr-96511750",
+    "name": "CR 5-8",
+    "article": "96511750",
+    "category": "multistage",
+    "description": "Вертикальный многоступенчатый насос. Параметры конкретного исполнения по каталогу производителя.",
+    "price": null,
+    "priceType": "sale",
+    "source": "https://product-selection.grundfos.com/products/cr-cre-cri-crie-crn-crne-crt-crte/cr/cr-5-8-96511750",
+    "sourceName": "Grundfos Product Center",
+    "checkedAt": "2026-09-17",
+    "specs": {
+      "Номинальная подача": "5,8 м³/ч",
+      "Номинальный напор": "40,3 м",
+      "Максимальный напор": "56,5 м",
+      "Мощность P2": "1,1 кВт",
+      "Частота": "50 Гц",
+      "Исполнение": "CR 5-8 A-FGJ-A-E-HQQE"
+    },
+    "priceNote": "Цена и возможность поставки этого исполнения пока не подтверждены."
+  },
+  {
+    "id": "cr-96501230",
+    "name": "CR 10-8",
+    "article": "96501230",
+    "category": "multistage",
+    "description": "Вертикальный многоступенчатый насос. Параметры конкретного исполнения по каталогу производителя.",
+    "price": null,
+    "priceType": "sale",
+    "source": "https://product-selection.grundfos.com/products/cr-cre-cri-crie-crn-crne-crt-crte/cr/cr-10-8-96501230",
+    "sourceName": "Grundfos Product Center",
+    "checkedAt": "2026-09-17",
+    "specs": {
+      "Номинальная подача": "10 м³/ч",
+      "Номинальный напор": "64,8 м",
+      "Максимальный напор": "81,7 м",
+      "Мощность P2": "3 кВт",
+      "Частота": "50 Гц",
+      "Исполнение": "CR 10-8 A-A-A-E-HQQE"
+    },
+    "priceNote": "Цена и возможность поставки этого исполнения пока не подтверждены."
+  },
+  {
+    "id": "cr-97844747",
+    "name": "CR 15-5",
+    "article": "97844747",
+    "category": "multistage",
+    "description": "Вертикальный многоступенчатый насос. Параметры конкретного исполнения по каталогу производителя.",
+    "price": null,
+    "priceType": "sale",
+    "source": "https://product-selection.grundfos.com/products/cr-cre-cri-crie-crn-crne-crt-crte/cr/cr-15-5-97844747?pumpsystemid=2901622952&tab=variant-curves",
+    "sourceName": "Grundfos Product Center",
+    "checkedAt": "2026-09-17",
+    "specs": {
+      "Номинальная подача": "17 м³/ч",
+      "Номинальный напор": "55,4 м",
+      "Максимальный напор": "70,6 м",
+      "Мощность P2": "4 кВт",
+      "Частота": "50 Гц",
+      "Исполнение": "CR 15-5 A-A-A-E-HQBE"
+    },
+    "priceNote": "Цена и возможность поставки этого исполнения пока не подтверждены."
+  }
+]
