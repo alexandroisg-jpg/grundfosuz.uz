@@ -4,6 +4,7 @@ export const SITE_ORIGIN = 'https://grundfosuz.uz';
 export const INDEXNOW_KEY = 'd0c8865357fad38f3b5aa894f1ad5415';
 export const productPath = (p: Pick<Product, 'id'>) => '/products/' + p.id;
 export const productUrl = (p: Pick<Product, 'id'>) => SITE_ORIGIN + productPath(p);
+export const productImageUrl = (p: Product) => p.image ? new URL(p.image, SITE_ORIGIN).href : undefined;
 export const catalogUrls = () => [SITE_ORIGIN + '/', ...products.map(productUrl)];
 export const priceNotice = (p: Product) => p.priceNote || (p.price === null
   ? 'Цена и возможность поставки этого исполнения требуют подтверждения.'
@@ -20,6 +21,7 @@ export function productStructuredData(p: Product) {
     name: 'Grundfos ' + p.name, model: p.name,
     description: p.description + ' ' + priceNotice(p),
     brand: { '@type': 'Brand', name: 'Grundfos' },
+    ...(p.image ? { image: [productImageUrl(p)] } : {}),
     category: categories.find(c => c.id === p.category)?.name,
     ...(p.article ? { mpn: p.article } : {}),
     additionalProperty: Object.entries(p.specs).map(([name, value]) => ({ '@type': 'PropertyValue', name, value })),

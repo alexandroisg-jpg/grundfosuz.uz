@@ -1,0 +1,471 @@
+[
+  {
+    "id": "magna3-32-60",
+    "imageUrl": "https://220volt.uz/image/cache/catalog/GRUNDFOS/nasos-cirkulyacionnyy-magna-3-1000x1000.jpg",
+    "imageNote": "Фото серии MAGNA3 из карточки продавца.",
+    "image": "/images/products/magna3-32-60.jpg"
+  },
+  {
+    "id": "magna3-32-80",
+    "imageUrl": "https://220volt.uz/image/cache/catalog/GRUNDFOS/nasos-cirkulyacionnyy-magna-3-1000x1000.jpg",
+    "imageNote": "Фото серии MAGNA3 из карточки продавца.",
+    "image": "/images/products/magna3-32-80.jpg"
+  },
+  {
+    "id": "cr-96511750",
+    "imageUrl": "https://api.grundfos.com/gpi/imaging/product?productnumber=96511750",
+    "imageNote": "Изображение производителя для этого артикула; комплектация может отличаться.",
+    "image": "/images/products/cr-96511750.jpg"
+  },
+  {
+    "id": "cr-96501230",
+    "imageUrl": "https://api.grundfos.com/gpi/imaging/product?productnumber=96501230",
+    "imageNote": "Изображение производителя для этого артикула; комплектация может отличаться.",
+    "image": "/images/products/cr-96501230.jpg"
+  },
+  {
+    "id": "cr-97844747",
+    "imageUrl": "https://api.grundfos.com/gpi/imaging/product?productnumber=97844747",
+    "imageNote": "Изображение производителя для этого артикула; комплектация может отличаться.",
+    "image": "/images/products/cr-97844747.jpg"
+  },
+  {
+    "id": "nbe-65-200-205",
+    "imageUrl": "https://api.grundfos.com/gpi/imaging/product?productnumber=99105437",
+    "imageNote": "Фото серии NBE 65-200/205. Исполнение и комплектация могут отличаться.",
+    "image": "/images/products/nbe-65-200-205.jpg"
+  },
+  {
+    "id": "mge100ld-component",
+    "imageUrl": "https://api.grundfos.com/gpi/imaging/product?productnumber=92727227",
+    "imageNote": "Фото серии MGE100LD. Исполнение и фланец сверяются по заводской табличке.",
+    "image": "/images/products/mge100ld-component.jpg"
+  },
+  {
+    "id": "industrial-1022353",
+    "imageUrl": "https://api.grundfos.com/gpi/imaging/productgroup?pgcode=CRFAM",
+    "source": "https://product-selection.grundfos.com/products/cr-cre-cri-crie-crn-crne-crt-crte/cr",
+    "imageNote": "Фото серии CR от производителя. Исполнение и комплектация могут отличаться.",
+    "image": "/images/products/industrial-1022353.jpg"
+  },
+  {
+    "id": "industrial-1022377",
+    "imageUrl": "https://api.grundfos.com/gpi/imaging/productgroup?pgcode=NB000",
+    "source": "https://product-selection.grundfos.com/products/nb-nbe-nbe-series-2000/nb",
+    "imageNote": "Фото серии NB от производителя. Исполнение и комплектация могут отличаться.",
+    "image": "/images/products/industrial-1022377.jpg"
+  },
+  {
+    "id": "industrial-1022405",
+    "imageUrl": "https://api.grundfos.com/gpi/imaging/productgroup?pgcode=TP000",
+    "source": "https://product-selection.grundfos.com/products/tp-tpe/tp",
+    "imageNote": "Фото серии TP от производителя. Исполнение и комплектация могут отличаться.",
+    "image": "/images/products/industrial-1022405.jpg"
+  },
+  {
+    "id": "industrial-1022378",
+    "imageUrl": "https://api.grundfos.com/gpi/imaging/productgroup?pgcode=NB000",
+    "source": "https://product-selection.grundfos.com/products/nb-nbe-nbe-series-2000/nb",
+    "imageNote": "Фото серии NB от производителя. Исполнение и комплектация могут отличаться.",
+    "image": "/images/products/industrial-1022378.jpg"
+  },
+  {
+    "id": "industrial-1022407",
+    "imageUrl": "https://api.grundfos.com/gpi/imaging/product?productnumber=93148558",
+    "source": "https://product-selection.grundfos.com/products/tp-tpe/tpe-series-2000-tpe3-1/tpe3-80-120-93148558",
+    "imageNote": "Фото серии TPE от производителя. Исполнение и комплектация могут отличаться.",
+    "image": "/images/products/industrial-1022407.jpg"
+  },
+  {
+    "id": "industrial-1022381",
+    "imageUrl": "https://api.grundfos.com/gpi/imaging/productgroup?pgcode=NB000",
+    "source": "https://product-selection.grundfos.com/products/nb-nbe-nbe-series-2000/nb",
+    "imageNote": "Фото серии NB от производителя. Исполнение и комплектация могут отличаться.",
+    "image": "/images/products/industrial-1022381.jpg"
+  },
+  {
+    "id": "industrial-1022380",
+    "imageUrl": "https://api.grundfos.com/gpi/imaging/productgroup?pgcode=NB000",
+    "source": "https://product-selection.grundfos.com/products/nb-nbe-nbe-series-2000/nb",
+    "imageNote": "Фото серии NB от производителя. Исполнение и комплектация могут отличаться.",
+    "image": "/images/products/industrial-1022380.jpg"
+  },
+  {
+    "id": "industrial-1022379",
+    "imageUrl": "https://api.grundfos.com/gpi/imaging/productgroup?pgcode=NB000",
+    "source": "https://product-selection.grundfos.com/products/nb-nbe-nbe-series-2000/nb",
+    "imageNote": "Фото серии NB от производителя. Исполнение и комплектация могут отличаться.",
+    "image": "/images/products/industrial-1022379.jpg"
+  },
+  {
+    "id": "industrial-1022408",
+    "imageUrl": "https://api.grundfos.com/gpi/imaging/product?productnumber=93148558",
+    "source": "https://product-selection.grundfos.com/products/tp-tpe/tpe-series-2000-tpe3-1/tpe3-80-120-93148558",
+    "imageNote": "Фото серии TPE от производителя. Исполнение и комплектация могут отличаться.",
+    "image": "/images/products/industrial-1022408.jpg"
+  },
+  {
+    "id": "industrial-1022406",
+    "imageUrl": "https://api.grundfos.com/gpi/imaging/product?productnumber=93148558",
+    "source": "https://product-selection.grundfos.com/products/tp-tpe/tpe-series-2000-tpe3-1/tpe3-80-120-93148558",
+    "imageNote": "Фото серии TPE от производителя. Исполнение и комплектация могут отличаться.",
+    "image": "/images/products/industrial-1022406.jpg"
+  },
+  {
+    "id": "cr-96500967",
+    "sku": "96500967",
+    "image": "/images/products/96500967.jpg",
+    "imageUrl": "https://api.grundfos.com/gpi/imaging/product?productnumber=96500967",
+    "source": "https://product-selection.grundfos.com/products/cr-cre-cri-crie-crn-crne-crt-crte/cr/cr-10-5-96500967"
+  },
+  {
+    "id": "cr-96501700",
+    "sku": "96501700",
+    "image": "/images/products/96501700.jpg",
+    "imageUrl": "https://api.grundfos.com/gpi/imaging/product?productnumber=96501700",
+    "source": "https://product-selection.grundfos.com/products/cr-cre-cri-crie-crn-crne-crt-crte/cr/cr-15-4-96501700"
+  },
+  {
+    "id": "cr-96500522",
+    "sku": "96500522",
+    "image": "/images/products/96500522.jpg",
+    "imageUrl": "https://api.grundfos.com/gpi/imaging/product?productnumber=96500522",
+    "source": "https://product-selection.grundfos.com/products/cr-cre-cri-crie-crn-crne-crt-crte/cr/cr-20-5-96500522"
+  },
+  {
+    "id": "cr-93392778",
+    "sku": "93392778",
+    "image": "/images/products/93392778.jpg",
+    "imageUrl": "https://api.grundfos.com/gpi/imaging/product?productnumber=93392778",
+    "source": "https://product-selection.grundfos.com/products/cr-cre-cri-crie-crn-crne-crt-crte/cr/cr-64-1-93392778"
+  },
+  {
+    "id": "cr-93392781",
+    "sku": "93392781",
+    "image": "/images/products/93392781.jpg",
+    "imageUrl": "https://api.grundfos.com/gpi/imaging/product?productnumber=93392781",
+    "source": "https://product-selection.grundfos.com/products/cr-cre-cri-crie-crn-crne-crt-crte/cr/cr-64-2-93392781"
+  },
+  {
+    "id": "cr-93392784",
+    "sku": "93392784",
+    "image": "/images/products/93392784.jpg",
+    "imageUrl": "https://api.grundfos.com/gpi/imaging/product?productnumber=93392784",
+    "source": "https://product-selection.grundfos.com/products/cr-cre-cri-crie-crn-crne-crt-crte/cr/cr-64-3-93392784"
+  },
+  {
+    "id": "cr-93436123",
+    "sku": "93436123",
+    "image": "/images/products/93436123.jpg",
+    "imageUrl": "https://api.grundfos.com/gpi/imaging/product?productnumber=93436123",
+    "source": "https://product-selection.grundfos.com/products/cr-cre-cri-crie-crn-crne-crt-crte/cr/cr-64-4-93436123"
+  },
+  {
+    "id": "cr-93435094",
+    "sku": "93435094",
+    "image": "/images/products/93435094.jpg",
+    "imageUrl": "https://api.grundfos.com/gpi/imaging/product?productnumber=93435094",
+    "source": "https://product-selection.grundfos.com/products/cr-cre-cri-crie-crn-crne-crt-crte/cr/cr-64-5-93435094"
+  },
+  {
+    "id": "cr-93435098",
+    "sku": "93435098",
+    "image": "/images/products/93435098.jpg",
+    "imageUrl": "https://api.grundfos.com/gpi/imaging/product?productnumber=93435098",
+    "source": "https://product-selection.grundfos.com/products/cr-cre-cri-crie-crn-crne-crt-crte/cr/cr-64-6-93435098"
+  },
+  {
+    "id": "cre-93148906",
+    "sku": "93148906",
+    "image": "/images/products/93148906.jpg",
+    "imageUrl": "https://api.grundfos.com/gpi/imaging/product?productnumber=93148906",
+    "source": "https://product-selection.grundfos.com/products/cr-cre-cri-crie-crn-crne-crt-crte/cre/cre-10-4-93148906"
+  },
+  {
+    "id": "cre-93148937",
+    "sku": "93148937",
+    "image": "/images/products/93148937.jpg",
+    "imageUrl": "https://api.grundfos.com/gpi/imaging/product?productnumber=93148937",
+    "source": "https://product-selection.grundfos.com/products/cr-cre-cri-crie-crn-crne-crt-crte/cre/cre-15-3-93148937"
+  },
+  {
+    "id": "cre-93148954",
+    "sku": "93148954",
+    "image": "/images/products/93148954.jpg",
+    "imageUrl": "https://api.grundfos.com/gpi/imaging/product?productnumber=93148954",
+    "source": "https://product-selection.grundfos.com/products/cr-cre-cri-crie-crn-crne-crt-crte/cre/cre-20-3-93148954"
+  },
+  {
+    "id": "cr-93392506",
+    "sku": "93392506",
+    "image": "/images/products/93392506.jpg",
+    "imageUrl": "https://api.grundfos.com/gpi/imaging/product?productnumber=93392506",
+    "source": "https://product-selection.grundfos.com/products/cr-cre-cri-crie-crn-crne-crt-crte/cr/cr-64-1-1-93392506"
+  },
+  {
+    "id": "cr-93392449",
+    "sku": "93392449",
+    "image": "/images/products/93392449.jpg",
+    "imageUrl": "https://api.grundfos.com/gpi/imaging/product?productnumber=93392449",
+    "source": "https://product-selection.grundfos.com/products/cr-cre-cri-crie-crn-crne-crt-crte/cr/cr-32-3-93392449"
+  },
+  {
+    "id": "magna3-97924266",
+    "sku": "97924266",
+    "image": "/images/products/97924266.jpg",
+    "imageUrl": "https://api.grundfos.com/gpi/imaging/product?productnumber=97924266",
+    "source": "https://product-selection.grundfos.com/products/magna/magna3/magna3-40-40-f-97924266"
+  },
+  {
+    "id": "magna3-97924267",
+    "sku": "97924267",
+    "image": "/images/products/97924267.jpg",
+    "imageUrl": "https://api.grundfos.com/gpi/imaging/product?productnumber=97924267",
+    "source": "https://product-selection.grundfos.com/products/magna/magna3/magna3-40-60-f-97924267"
+  },
+  {
+    "id": "magna3-97924268",
+    "sku": "97924268",
+    "image": "/images/products/97924268.jpg",
+    "imageUrl": "https://api.grundfos.com/gpi/imaging/product?productnumber=97924268",
+    "source": "https://product-selection.grundfos.com/products/magna/magna3/magna3-40-80-f-97924268"
+  },
+  {
+    "id": "magna3-97924269",
+    "sku": "97924269",
+    "image": "/images/products/97924269.jpg",
+    "imageUrl": "https://api.grundfos.com/gpi/imaging/product?productnumber=97924269",
+    "source": "https://product-selection.grundfos.com/products/magna/magna3/magna3-40-100-f-97924269"
+  },
+  {
+    "id": "magna3-97924270",
+    "sku": "97924270",
+    "image": "/images/products/97924270.jpg",
+    "imageUrl": "https://api.grundfos.com/gpi/imaging/product?productnumber=97924270",
+    "source": "https://product-selection.grundfos.com/products/magna/magna3/magna3-40-120-f-97924270"
+  },
+  {
+    "id": "magna3-97924271",
+    "sku": "97924271",
+    "image": "/images/products/97924271.jpg",
+    "imageUrl": "https://api.grundfos.com/gpi/imaging/product?productnumber=97924271",
+    "source": "https://product-selection.grundfos.com/products/magna/magna3/magna3-40-150-f-97924271"
+  },
+  {
+    "id": "magna3-97924272",
+    "sku": "97924272",
+    "image": "/images/products/97924272.jpg",
+    "imageUrl": "https://api.grundfos.com/gpi/imaging/product?productnumber=97924272",
+    "source": "https://product-selection.grundfos.com/products/magna/magna3/magna3-40-180-f-97924272"
+  },
+  {
+    "id": "magna3-97924280",
+    "sku": "97924280",
+    "image": "/images/products/97924280.jpg",
+    "imageUrl": "https://api.grundfos.com/gpi/imaging/product?productnumber=97924280",
+    "source": "https://product-selection.grundfos.com/products/magna/magna3/magna3-50-40-f-97924280"
+  },
+  {
+    "id": "magna3-97924281",
+    "sku": "97924281",
+    "image": "/images/products/97924281.jpg",
+    "imageUrl": "https://api.grundfos.com/gpi/imaging/product?productnumber=97924281",
+    "source": "https://product-selection.grundfos.com/products/magna/magna3/magna3-50-60-f-97924281"
+  },
+  {
+    "id": "magna3-97924282",
+    "sku": "97924282",
+    "image": "/images/products/97924282.jpg",
+    "imageUrl": "https://api.grundfos.com/gpi/imaging/product?productnumber=97924282",
+    "source": "https://product-selection.grundfos.com/products/magna/magna3/magna3-50-80-f-97924282"
+  },
+  {
+    "id": "magna3-97924283",
+    "sku": "97924283",
+    "image": "/images/products/97924283.jpg",
+    "imageUrl": "https://api.grundfos.com/gpi/imaging/product?productnumber=97924283",
+    "source": "https://product-selection.grundfos.com/products/magna/magna3/magna3-50-100-f-97924283"
+  },
+  {
+    "id": "magna3-97924284",
+    "sku": "97924284",
+    "image": "/images/products/97924284.jpg",
+    "imageUrl": "https://api.grundfos.com/gpi/imaging/product?productnumber=97924284",
+    "source": "https://product-selection.grundfos.com/products/magna/magna3/magna3-50-120-f-97924284"
+  },
+  {
+    "id": "magna3-97924285",
+    "sku": "97924285",
+    "image": "/images/products/97924285.jpg",
+    "imageUrl": "https://api.grundfos.com/gpi/imaging/product?productnumber=97924285",
+    "source": "https://product-selection.grundfos.com/products/magna/magna3/magna3-50-150-f-97924285"
+  },
+  {
+    "id": "magna3-97924286",
+    "sku": "97924286",
+    "image": "/images/products/97924286.jpg",
+    "imageUrl": "https://api.grundfos.com/gpi/imaging/product?productnumber=97924286",
+    "source": "https://product-selection.grundfos.com/products/magna/magna3/magna3-50-180-f-97924286"
+  },
+  {
+    "id": "nb-98975726",
+    "sku": "98975726",
+    "image": "/images/products/98975726.jpg",
+    "imageUrl": "https://api.grundfos.com/gpi/imaging/product?productnumber=98975726",
+    "source": "https://product-selection.grundfos.com/de/products/nb-nbe-nbe-series-2000/nb/nb-100-200219-98975726"
+  },
+  {
+    "id": "tpe2-93148473",
+    "sku": "93148473",
+    "image": "/images/products/93148473.jpg",
+    "imageUrl": "https://api.grundfos.com/gpi/imaging/product?productnumber=93148473",
+    "source": "https://product-selection.grundfos.com/products/tp-tpe/tpe-series-1000-tpe2/tpe2-50-120-93148473"
+  },
+  {
+    "id": "tpe2-93148476",
+    "sku": "93148476",
+    "image": "/images/products/93148476.jpg",
+    "imageUrl": "https://api.grundfos.com/gpi/imaging/product?productnumber=93148476",
+    "source": "https://product-selection.grundfos.com/products/tp-tpe/tpe-series-1000-tpe2/tpe2-50-180-93148476"
+  },
+  {
+    "id": "tpe2-93148490",
+    "sku": "93148490",
+    "image": "/images/products/93148490.jpg",
+    "imageUrl": "https://api.grundfos.com/gpi/imaging/product?productnumber=93148490",
+    "source": "https://product-selection.grundfos.com/products/tp-tpe/tpe-series-1000-tpe2/tpe2-65-120-93148490"
+  },
+  {
+    "id": "tpe2-93148493",
+    "sku": "93148493",
+    "image": "/images/products/93148493.jpg",
+    "imageUrl": "https://api.grundfos.com/gpi/imaging/product?productnumber=93148493",
+    "source": "https://product-selection.grundfos.com/products/tp-tpe/tpe-series-1000-tpe2/tpe2-65-180-93148493"
+  },
+  {
+    "id": "tpe3-93148558",
+    "sku": "93148558",
+    "image": "/images/products/93148558.jpg",
+    "imageUrl": "https://api.grundfos.com/gpi/imaging/product?productnumber=93148558",
+    "source": "https://product-selection.grundfos.com/products/tp-tpe/tpe-series-2000-tpe3-1/tpe3-80-120-93148558"
+  },
+  {
+    "id": "tpe3-93148559",
+    "sku": "93148559",
+    "image": "/images/products/93148559.jpg",
+    "imageUrl": "https://api.grundfos.com/gpi/imaging/product?productnumber=93148559",
+    "source": "https://product-selection.grundfos.com/products/tp-tpe/tpe-series-2000-tpe3-1/tpe3-80-150-93148559"
+  },
+  {
+    "id": "nk-93401348",
+    "sku": "93401348",
+    "image": "/images/products/93401348.jpg",
+    "imageUrl": "https://api.grundfos.com/gpi/imaging/product?productnumber=93401348",
+    "source": "https://product-selection.grundfos.com/products/nk-nke-nke-series-2000-nk-bare-shaft/nk/nk-50-200210-93401348"
+  },
+  {
+    "id": "sp-13a01903",
+    "sku": "13A01903",
+    "image": "/images/products/13a01903.jpg",
+    "imageUrl": "https://api.grundfos.com/gpi/imaging/product?productnumber=13A01903",
+    "source": "https://product-selection.grundfos.com/uk/products/sp/sp/sp-30-3-13A01903"
+  },
+  {
+    "id": "sp-13a01904",
+    "sku": "13A01904",
+    "image": "/images/products/13a01904.jpg",
+    "imageUrl": "https://api.grundfos.com/gpi/imaging/product?productnumber=13A01904",
+    "source": "https://product-selection.grundfos.com/uk/products/sp/sp/sp-30-4-13A01904"
+  },
+  {
+    "id": "sp-13a01910",
+    "sku": "13A01910",
+    "image": "/images/products/13a01910.jpg",
+    "imageUrl": "https://api.grundfos.com/gpi/imaging/product?productnumber=13A01910",
+    "source": "https://product-selection.grundfos.com/uk/products/sp/sp/sp-30-10-13A01910"
+  },
+  {
+    "id": "sp-13a01912",
+    "sku": "13A01912",
+    "image": "/images/products/13a01912.jpg",
+    "imageUrl": "https://api.grundfos.com/gpi/imaging/product?productnumber=13A01912",
+    "source": "https://product-selection.grundfos.com/uk/products/sp/sp/sp-30-12-13A01912"
+  },
+  {
+    "id": "sp-13a01917",
+    "sku": "13A01917",
+    "image": "/images/products/13a01917.jpg",
+    "imageUrl": "https://api.grundfos.com/gpi/imaging/product?productnumber=13A01917",
+    "source": "https://product-selection.grundfos.com/uk/products/sp/sp/sp-30-17-13A01917"
+  },
+  {
+    "id": "cue-92969633",
+    "sku": "92969633",
+    "image": "/images/products/92969633.jpg",
+    "imageUrl": "https://api.grundfos.com/gpi/imaging/product?productnumber=92969633",
+    "source": "https://product-selection.grundfos.com/uk/products/cue-1/cue/cue-3x380-500v-ip55-22kw-92969633"
+  },
+  {
+    "id": "cue-92969636",
+    "sku": "92969636",
+    "image": "/images/products/92969636.jpg",
+    "imageUrl": "https://api.grundfos.com/gpi/imaging/product?productnumber=92969636",
+    "source": "https://product-selection.grundfos.com/uk/products/cue-1/cue/cue-3x380-500v-ip55-55kw-92969636"
+  },
+  {
+    "id": "cue-92969637",
+    "sku": "92969637",
+    "image": "/images/products/92969637.jpg",
+    "imageUrl": "https://api.grundfos.com/gpi/imaging/product?productnumber=92969637",
+    "source": "https://product-selection.grundfos.com/uk/products/cue-1/cue/cue-3x380-500v-ip55-75kw-92969637"
+  },
+  {
+    "id": "dda-93016935",
+    "sku": "93016935",
+    "image": "/images/products/93016935.jpg",
+    "imageUrl": "https://api.grundfos.com/gpi/imaging/product?productnumber=93016935",
+    "source": "https://product-selection.grundfos.com/uk/products/dosing-pumps-digital/dda/dda-75-16-93016935"
+  },
+  {
+    "id": "dda-93016946",
+    "sku": "93016946",
+    "image": "/images/products/93016946.jpg",
+    "imageUrl": "https://api.grundfos.com/gpi/imaging/product?productnumber=93016946",
+    "source": "https://product-selection.grundfos.com/uk/products/dosing-pumps-digital/dda/dda-12-10-93016946"
+  },
+  {
+    "id": "dda-93016957",
+    "sku": "93016957",
+    "image": "/images/products/93016957.jpg",
+    "imageUrl": "https://api.grundfos.com/gpi/imaging/product?productnumber=93016957",
+    "source": "https://product-selection.grundfos.com/uk/products/dosing-pumps-digital/dda/dda-17-7-93016957"
+  },
+  {
+    "id": "dda-93016968",
+    "sku": "93016968",
+    "image": "/images/products/93016968.jpg",
+    "imageUrl": "https://api.grundfos.com/gpi/imaging/product?productnumber=93016968",
+    "source": "https://product-selection.grundfos.com/uk/products/dosing-pumps-digital/dda/dda-30-4-93016968"
+  },
+  {
+    "id": "dde-93003177",
+    "sku": "93003177",
+    "image": "/images/products/93003177.jpg",
+    "imageUrl": "https://api.grundfos.com/gpi/imaging/product?productnumber=93003177",
+    "source": "https://product-selection.grundfos.com/uk/products/dosing-pumps-digital/dde/dde-6-10-93003177"
+  },
+  {
+    "id": "se1-92739684",
+    "sku": "92739684",
+    "image": "/images/products/92739684.jpg",
+    "imageUrl": "https://api.grundfos.com/gpi/imaging/product?productnumber=92739684",
+    "source": "https://product-selection.grundfos.com/uk/products/sesl-range-48/se1/se18080-92739684"
+  },
+  {
+    "id": "sev-92871094",
+    "sku": "92871094",
+    "image": "/images/products/92871094.jpg",
+    "imageUrl": "https://api.grundfos.com/gpi/imaging/product?productnumber=92871094",
+    "source": "https://product-selection.grundfos.com/uk/products/sesl-range-48/sev/sev8080-92871094"
+  }
+]

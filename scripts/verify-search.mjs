@@ -11,6 +11,7 @@ if (submit && origin !== canonicalOrigin) throw new Error('IndexNow submissions 
 const key = 'd0c8865357fad38f3b5aa894f1ad5415';
 const urls = [canonicalOrigin + '/', ...products.map(p => canonicalOrigin + '/products/' + p.id)];
 const failures = [];
+const checkedImages = new Set();
 const recordFailure = message => { failures.push(message); console.error('FAIL ' + message); };
 
 async function request(path) {
@@ -53,6 +54,16 @@ if (!failures.length) {
       const path = '/products/' + p.id;
       const { body } = await request(path);
       checkHtml(body, path);
+      if (!p.image || !body.includes(p.image)) throw new Error(path + ': product image missing');
+      const productData = [...body.matchAll(/<script\b[^>]*type=["']application\/ld\+json["'][^>]*>([\s\S]*?)<\/script>/gi)].map(m => JSON.parse(m[1])).find(data => data['@type'] === 'Product');
+      if (!productData?.image?.includes(new URL(p.image, canonicalOrigin).href)) throw new Error(path + ': structured image missing');
+      if (!checkedImages.has(p.image)) {
+        const imageUrl = new URL(p.image, origin);
+        const imageResponse = await fetch(imageUrl, { signal: AbortSignal.timeout(20000) });
+        if (imageResponse.status !== 200 || !/^image\//.test(imageResponse.headers.get('content-type') || '')) throw new Error(path + ': image fails to load');
+        await imageResponse.arrayBuffer();
+        checkedImages.add(p.image);
+      }
       if (!body.includes(p.name)) throw new Error(path + ': model missing from HTML');
       if (p.article && !body.includes(p.article)) throw new Error(path + ': article missing from HTML');
       if (p.price !== null && !body.replace(/[^0-9]/g, '').includes(String(p.price))) throw new Error(path + ': price missing from HTML');

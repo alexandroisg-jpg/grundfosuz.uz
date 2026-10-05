@@ -23,7 +23,7 @@ function ProductImage({product,large=false}:{product:Product;large?:boolean}) {
  const [failed,setFailed]=useState(false);
  useEffect(()=>setFailed(false),[product.id,product.image]);
  return <div className={'product-image'+(large?' large':'')}>
-  {product.image&&!failed ? <img src={product.image} alt={'Grundfos '+product.name} loading={large?'eager':'lazy'} onError={()=>setFailed(true)}/> : <div className="image-missing"><Package size={35} strokeWidth={1}/><span>Фото уточняется</span></div>}
+  {product.image&&!failed ? <img src={product.image} alt={'Grundfos '+product.name} width={600} height={600} loading={large?'eager':'lazy'} onError={()=>setFailed(true)}/> : <div className="image-missing"><Package size={35} strokeWidth={1}/><span>Фото временно недоступно</span></div>}
  </div>;
 }
 
@@ -143,6 +143,7 @@ export default function Catalog(){
      <div className="catalog-bottom"><span>Показано {Math.min(visibleCount,section==='products'&&!showSeriesFallback?filtered.length:filteredFamilies.length)} из {section==='products'&&!showSeriesFallback?filtered.length:filteredFamilies.length}</span><a href="https://product-selection.grundfos.com/" target="_blank" rel="noreferrer">Полный каталог производителя<ArrowUpRight size={16}/></a></div>
     </section>
    </div>}
+   <section className="model-directory" aria-labelledby="model-directory-title"><h2 id="model-directory-title">Все модели каталога</h2><p>Перейдите к характеристикам, фотографии и условиям поставки нужного исполнения.</p><div>{categories.filter(c=>c.id!=='all'&&products.some(p=>p.category===c.id)).map(c=><details key={c.id}><summary>{c.name}<span>{products.filter(p=>p.category===c.id).length}</span></summary><ul>{products.filter(p=>p.category===c.id).map(p=><li key={p.id}><a href={productPath(p)}>{p.name}{p.article&&<small> · {p.article}</small>}</a></li>)}</ul></details>)}</div></section>
    <section className="technical-strip"><div><Settings2 size={29} strokeWidth={1.2}/><div><h3>Каждая деталь имеет значение.</h3><p>Проверьте исполнение, напряжение и присоединительные размеры перед заказом.</p></div></div><button onClick={()=>navigate('families')}>Техническая документация<ArrowUpRight size={19}/></button></section>
   </main>
 

@@ -23,6 +23,7 @@ export default async function ProductPage({ params }: Props) {
   if (!p) notFound();
   const category = categories.find(c => c.id === p.category);
   const related = products.filter(other => other.id !== p.id && other.category === p.category).slice(0, 4);
+  const separateItems = products.filter(other => p.relatedProductIds?.includes(other.id));
   const breadcrumbs = {
     '@context': 'https://schema.org', '@type': 'BreadcrumbList',
     itemListElement: [
@@ -50,6 +51,7 @@ export default async function ProductPage({ params }: Props) {
           {p.article && <p className="product-page-article">Артикул производителя: <strong>{p.article}</strong></p>}
           <p className="product-page-description">{p.description}</p>
           <div className="product-page-price"><span>{p.price === null ? 'Стоимость исполнения' : p.preliminary ? 'Предварительная цена' : p.priceType === 'reference' ? 'Справочная цена' : 'Цена'}</span><strong>{priceText(p)}</strong><p>{priceNotice(p)}</p></div>
+          {separateItems.length > 0 && <aside className="separate-items"><strong>Отдельная позиция</strong>{separateItems.map(item => <a href={productPath(item)} key={item.id}><span>{item.name}</span><b>{priceText(item)}</b></a>)}<p>У каждой позиции своя цена. Стоимость другой позиции не включена.</p></aside>}
           <div className="product-page-actions"><a href="tel:+998909008805" className="primary-button">Уточнить цену и поставку</a><a href={'/?product=' + p.id} className="product-back">Открыть подбор и добавить в список →</a></div>
           <p className="product-page-phone">Подбор оборудования: <a href="tel:+998909008805">+998 90 900 88 05</a></p>
         </section>

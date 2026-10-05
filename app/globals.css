@@ -101,3 +101,21 @@ a.product-name{display:block;text-decoration:none}a.product-name:hover{text-deco
 @media(max-width:620px){.product-page-grid,.product-page-details{grid-template-columns:minmax(0,1fr)}.product-page-grid{gap:24px}.product-page-header{flex-direction:row!important;align-items:center!important}.product-page-header .product-back{max-width:140px;text-align:right;font-size:14px}.product-page-summary{grid-row:1}.product-page-visual{grid-row:2}.product-page-description{font-size:16px}.product-page-details{margin-top:32px}.product-page h2{font-size:22px}.product-page-actions .primary-button{width:100%}.product-related>div{grid-template-columns:1fr}.product-page-no-image{min-height:190px}.product-page-visual img{max-height:320px}.product-page-breadcrumb{margin-bottom:24px}}
 .product-page-header .brand>strong{white-space:nowrap}.product-page-details .spec-table dt,.product-page-details .spec-table dd{max-width:none;font-size:14px}
 @media(max-width:620px){.product-page-header{display:flex!important;gap:16px!important}.product-page-header .brand>strong{font-size:23px}.product-page-header .brand-slashes{font-size:27px}.product-page-header .product-back{flex:0 1 130px;min-width:0;font-size:13px}}
+
+/* Catalog navigation stays in the server-rendered page for every model. */
+.model-directory { border-top:1px solid var(--line,#dce2e7); margin-top:48px; padding-top:32px; }
+.model-directory h2 { font-size:1.55rem; margin-bottom:8px; }
+.model-directory > p { color:#536574; font-size:1rem; margin-bottom:24px; }
+.model-directory > div { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:12px 28px; align-items:start; }
+.model-directory details { border-bottom:1px solid #dce2e7; padding:12px 0; }
+.model-directory summary { cursor:pointer; font-size:1rem; font-weight:600; }
+.model-directory summary span { margin-left:12px; color:#536574; font-weight:400; }
+.model-directory ul { list-style:none; padding:12px 0 0; margin:0; }
+.model-directory li { padding:5px 0; }
+.model-directory a { font-size:.9375rem; color:#0d4a6d; overflow-wrap:anywhere; }
+.model-directory small { color:#536574; font-size:.875rem; }
+.separate-items { margin:20px 0; padding:18px; background:#f1f6fa; border-left:3px solid #0068a0; }
+.separate-items > strong { font-size:.875rem; }
+.separate-items a { display:flex; justify-content:space-between; flex-wrap:wrap; gap:8px; margin-top:10px; color:#005c8c; }
+.separate-items p { font-size:.875rem; color:#536574; margin:10px 0 0; }
+@media(max-width:640px) { .model-directory > div { grid-template-columns:1fr; } }

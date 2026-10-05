@@ -5,10 +5,10 @@ export type Product = {
  id: string; name: string; category: string; description: string; article?: string;
  image?: string; imageNote?: string; price: number | null; priceType: 'reference' | 'sale'; preliminary?: boolean;
  source: string; sourceName: string; checkedAt: string; specs: Record<string,string>;
- priceFrom?: boolean; priceNote?: string; sourceUpdatedAt?: string;
+ priceFrom?: boolean; priceNote?: string; sourceUpdatedAt?: string; updatedAt?: string; relatedProductIds?: string[];
 };
 export type Family = {name: string; category: string; description: string; url: string; image?: string};
-const productSchema = z.object({id:z.string().max(100).regex(/^[a-z0-9]+(?:-[a-z0-9]+)*$/).refine(id=>!['constructor','prototype'].includes(id)),name:z.string().min(1),category:z.string(),description:z.string(),article:z.string().optional(),image:z.string().optional(),imageNote:z.string().optional(),price:z.number().finite().nonnegative().nullable(),priceType:z.enum(['reference','sale']),preliminary:z.boolean().optional(),source:z.string().url(),sourceName:z.string(),checkedAt:z.string(),specs:z.record(z.string()),priceFrom:z.boolean().optional(),priceNote:z.string().optional(),sourceUpdatedAt:z.string().optional()});
+const productSchema = z.object({id:z.string().max(100).regex(/^[a-z0-9]+(?:-[a-z0-9]+)*$/).refine(id=>!['constructor','prototype'].includes(id)),name:z.string().min(1),category:z.string(),description:z.string(),article:z.string().optional(),image:z.string().optional(),imageNote:z.string().optional(),price:z.number().finite().nonnegative().nullable(),priceType:z.enum(['reference','sale']),preliminary:z.boolean().optional(),source:z.string().url(),sourceName:z.string(),checkedAt:z.string(),specs:z.record(z.string()),priceFrom:z.boolean().optional(),priceNote:z.string().optional(),sourceUpdatedAt:z.string().optional(),updatedAt:z.string().optional(),relatedProductIds:z.array(z.string()).optional()});
 export const products: Product[] = z.array(productSchema).parse(rawProducts);
 export const families = rawFamilies as Family[];
 export const categories = [
