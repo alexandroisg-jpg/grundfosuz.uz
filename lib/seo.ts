@@ -15,6 +15,15 @@ export function productDescription(p: Product) {
 }
 
 export function productStructuredData(p: Product) {
+  // Preliminary and reference prices are not confirmed offers for rich results.
+  const hasOffer = p.price !== null && Number.isFinite(p.price) && p.price > 0
+    && !p.preliminary && !p.priceFrom && p.priceType === 'sale';
+  if (!hasOffer) return {
+    '@context': 'https://schema.org', '@type': 'WebPage',
+    '@id': productUrl(p) + '#webpage', url: productUrl(p),
+    name: 'Grundfos ' + p.name, description: p.description + ' ' + priceNotice(p),
+    ...(p.image ? { primaryImageOfPage: { '@type': 'ImageObject', url: productImageUrl(p) } } : {}),
+  };
   return {
     '@context': 'https://schema.org', '@type': 'Product',
     '@id': productUrl(p) + '#product', url: productUrl(p),
@@ -25,10 +34,7 @@ export function productStructuredData(p: Product) {
     category: categories.find(c => c.id === p.category)?.name,
     ...(p.article ? { mpn: p.article } : {}),
     additionalProperty: Object.entries(p.specs).map(([name, value]) => ({ '@type': 'PropertyValue', name, value })),
-    // An indicative quote is not a confirmed orderable offer or stock record.
-    ...(p.price !== null && !p.preliminary && !p.priceFrom && p.priceType === 'sale' ? {
-      offers: { '@type': 'Offer', url: productUrl(p), priceCurrency: 'UZS', price: p.price },
-    } : {}),
+    offers: { '@type': 'Offer', url: productUrl(p), priceCurrency: 'UZS', price: p.price },
   };
 }
 

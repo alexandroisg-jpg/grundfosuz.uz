@@ -56,7 +56,15 @@ if (!failures.length) {
       checkHtml(body, path);
       if (!p.image || !body.includes(p.image)) throw new Error(path + ': product image missing');
       const productData = [...body.matchAll(/<script\b[^>]*type=["']application\/ld\+json["'][^>]*>([\s\S]*?)<\/script>/gi)].map(m => JSON.parse(m[1])).find(data => data['@type'] === 'Product');
-      if (!productData?.image?.includes(new URL(p.image, canonicalOrigin).href)) throw new Error(path + ': structured image missing');
+      const hasOffer = p.price !== null && Number.isFinite(p.price) && p.price > 0 && !p.preliminary && !p.priceFrom && p.priceType === 'sale';
+      if (hasOffer) {
+        if (!productData?.image?.includes(new URL(p.image, canonicalOrigin).href)) throw new Error(path + ': structured image missing');
+        if (productData.offers?.price !== p.price || productData.offers?.priceCurrency !== 'UZS') throw new Error(path + ': confirmed offer missing or incorrect');
+      } else {
+        if (productData) throw new Error(path + ': Product rich-result markup without a confirmed offer');
+        const webpage = [...body.matchAll(/<script\b[^>]*type=["']application\/ld\+json["'][^>]*>([\s\S]*?)<\/script>/gi)].map(m => JSON.parse(m[1])).find(data => data['@type'] === 'WebPage');
+        if (webpage?.url !== canonicalOrigin + path || webpage?.primaryImageOfPage?.url !== new URL(p.image, canonicalOrigin).href) throw new Error(path + ': webpage metadata missing or incorrect');
+      }
       if (!checkedImages.has(p.image)) {
         const imageUrl = new URL(p.image, origin);
         const imageResponse = await fetch(imageUrl, { signal: AbortSignal.timeout(20000) });
